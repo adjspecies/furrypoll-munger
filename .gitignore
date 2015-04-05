@@ -1,0 +1,6 @@
+.vagrant
+*.pyc
+*.pyo
+.*.swp
+node_modules
+etc/survey-data

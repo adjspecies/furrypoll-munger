@@ -1,0 +1,329 @@
+1. Please enter your birth month and year.
+	"This question is asked to check for any shifts in the overall age of the furry subculture, as well as to check for signs of 'aging out'."
+  	_year_[v]  _month_[v]
+
+2. What is your clinical sex?
+ 	"This question is asked to understand the breakdown of clinical sex within furry."
+   	"Note: we understand that this question is delicate for a great many people, and have thus tried to word it carefully.  This includes the available responses; but again, we understand that these, too, can be difficult for some to mark down.  We ask this specifically to explore perceived gaps in clinical (sometimes referred to as biological) sex within the furry subculture.  Please mark whatever you feel comfortable with, and feel free to provide additional information in the 'other' field, and remember that this question is *optional*."
+ 	( ) Female
+ 	( ) Male
+	( ) Intersex
+	( ) MtF Female
+	( ) FtM Male
+	( ) Other: _____
+
+3. What is your self-identified gender?
+	"This question is asked to understand the breakdown of gender identity within the furry subculture."
+	( ) Male, completely
+	( ) Male, predominately
+	( ) Equal parts male and female
+	( ) Female, predominately
+	( ) Female, completely
+	( ) Other...
+		( ) Genderqueer
+		( ) Neutrois, agender, or null gendered
+		( ) Non-binary (not otherwise specified)
+		( ) Other: _____
+
+4. What is your sexual orientation?
+	"This question is asked to explore the breakdown of sexual orientation within the fandom, and generally follows the Kinsey scale."
+	( ) Completely heterosexual
+	( ) Mostly heterosexual
+	( ) Bisexual, leaning heterosexual
+	( ) Bisexual
+	( ) Bisexual, leaning homosexual
+	( ) Mostly homosexual
+	( ) Completely homosexual
+	( ) Other...
+		( ) Pansexual
+		( ) Omnisexual
+		( ) Asexual
+		( ) Other: _____
+
+5. Where do you live?
+	"This question is asked to investigate where furries live in the world and how that shifts over time."
+	_country_[v] _state/province_[v]
+
+6. How large is the town in which you make your primary residence?
+	"This question explores how large a city furries live in, and helps with estimates of the fandom's size."
+	_population_scale_[v]
+
+7. What is your race? Check all that apply.
+	"This question is asked to understand the general racial background of the furry subculture."
+	"Note: this question follows a structure similar to the US Census, and is intended to imply only broad racial categories.  Please feel free to be more specific in the provided space."
+	[ ] White
+	[ ] Black
+	[ ] Asian
+	[ ] Hispanic
+	[ ] Native American/Pacific Islander
+	[ ] Middle Eastern
+	[ ] Other: _____
+
+8. Please describe your spirituality.
+	"This question is asked to see how furries identify spiritually."
+	( ) Christian...
+		( ) Catholic
+		( ) Orthodox
+		( ) Protestant: _____
+		( ) Other: _____
+	( ) Muslim
+	( ) Hindu
+	( ) Jewish
+	( ) Pagan
+	( ) Buddhist
+	( ) Atheist
+	( ) Agnostic
+	( ) Other: _____
+
+9. Please describe your political views (leave blank if apolitical):
+	"This question is used to estimate where most furries are on political matters."
+	More economic restrictions _1-10_scale_ Fewer economic restrictions
+	More social restrictions _1-10_scale_ Fewer social restrictions
+
+10. What is your occupation? (+ Click to add occupation)
+	"This question asks what your primary occupation is.  If you have more than one occupation, please answer for your primary occupation first, then click '+ Click to add occupation' to specify any further occupations."
+	( ) Student
+	( ) Administrative
+	( ) Government/armed service
+	( ) Sales/support
+	( ) Technical/IT
+	( ) Professional
+	( ) Service
+	( ) Veterinary/Other Animal Related
+	( ) Creative or other within the furry subculture
+	( ) Creative or other outside the furry subculture
+	( ) Retired
+	( ) Unemployed
+	( ) Other: _____
+
+11. Please indicate your highest level of education.
+	"This question is asked to understand the level of education attained by furries."
+	( ) Some high school/secondary school
+	( ) High school/secondary school (ongoing)
+	( ) High school/secondary school graduate
+	( ) Some college/university
+	( ) College/university (ongoing)
+	( ) College/university graduate
+	( ) Post-college (ongoing)
+	( ) Post-college graduate
+	( ) Advanced degree
+	( ) Other: _____
+
+12. What is your current relationship status?
+	"
+	( ) Single
+	( ) Casual relationship
+	( ) Long-term/committed relationship
+	( ) Civil union, domestic partnership, or other legally recognized (non-marriage) partnership
+	( ) Married
+	( ) Other: _____
+
+	[ ] Partner is a member of the furry subculture
+	[ ] Long-distance relationship
+
+13. How strongly do you consider the furry subculture to be a part of your life?
+	Not at all _1-10_scale_ Very strongly
+
+14. How long, in years, have you *known about* the furry subculture?
+	_numeric_by_0.25_ years
+
+15. How long, in years, have you *considered yourself a member of* the furry subculture (that is, considered yourself a furry)?
+	_numeric_by_0.25_ years
+
+16. If you are, who knows you are furry? Check all that apply.
+	[ ] No-one
+	[ ] Immediate family
+	[ ] Significant other
+	[ ] Furry friends or acquaintances
+	[ ] Best non-furry friend(s)
+	[ ] Closer non-furry friends
+	[ ] Most non-furry friends
+	[ ] Coworkers
+	[ ] It's common knowledge
+	[ ] Not applicable
+
+<Reevaluate by="YoY">
+17. How do you think non-furries respond to your membership in the furry subculture?
+	( ) They have no knowledge
+	( ) Very positively
+	( ) Positively
+	( ) Somewhat positively
+	( ) Ambivalently
+	( ) Somewhat negatively
+	( ) Negatively
+	( ) Very negatively
+	( ) Not applicable
+
+18. If you consider yourself a furry, do people who know you are respond to you differently?
+	( ) No, they do not respond differently
+	( ) Yes, they respond more positively
+	( ) Yes, they respond more negatively
+	( ) The reaction is mixed; some respond more positively, some respond more negatively, and some do not respond differently.
+	( ) People do not know that I am a furry
+	( ) Not applicable
+
+19. Would you characterize the perceptions held by non-furries you know of the furry subculture as:
+	( ) Extremely accurate
+	( ) Accurate
+	( ) Inaccurate
+	( ) Extremely inaccurate
+</Reevalute>
+
+20. How strongly do you consider yourself to be human?
+	( ) I consider myself to be completely human, with no other attributes
+	( ) I consider myself to be completely human, though I admire some attributes of another species
+	( ) I consider myself to be mostly human, with some attributes of another species
+	( ) I consider myself to be roughly equal parts human and another species
+	( ) I consider myself to be partly human, though attributes from another species are more common
+	( ) I do not consider myself human
+	( ) Other: _____
+
+21. If you are a furry, do you represent yourself in the furry subculture as other than your clinical sex (question 2), regardless of your gender identity (question 3)?
+	( ) No, and I would not do so
+	( ) No, but I might do so
+	( ) Yes, occasionally
+	( ) Yes, regularly
+	( ) My primary character or avatar fits this description
+	( ) Not applicable
+
+<Reevaluate by="YoY" moveToPage="3">
+22. The importance of sexuality in the furry subculture - on a scale from one to ten:
+	<Randomize>
+	- how important do you think sex is to the you within furry subculture? 
+	Extremely unimportant _scale_1-10_ Extremely important
+	[ ] Not applicable
+
+	- how important do you believe sex is to other furries?
+	Extremely unimportant _scale_1-10_ Extremely important
+	[ ] I am not a furry, I don't know
+
+	- how important do you think the public--among those who are aware of it--believes sex is to the furry fandom?
+	Extremely unimportant _scale_1-10_ Extremely important
+	[ ] I am not a furry, h
+	</Randomize>
+</Reevaluate>
+
+22. Activities within the furry subculture - if you are a furry, how often do you:
+	- Options:
+		( ) Never
+		( ) Less than once a year
+		( ) Yearly
+		( ) Several times a year
+		( ) Monthly
+		( ) Several times a month
+		( ) Weekly
+		( ) Daily
+	Chat online with other furries
+	Roleplay with other furries*
+	Attend furry conventions
+	Attend local meetups
+	Fursuit
+	Visit furry websites
+	Participate in online furry communities
+	Write furry literature
+	Draw furry artwork
+* That is, participate in enacting a scene online (IRC, MUCK, forums, etc.) with other furries; this does not refer to Role Playing Games (RPGs) unless those include some aspect of this - you will be asked later about RPGs outside of this context.
+
+23. Regardless of your answers to the previous question, please describe your general feelings to the following on a scale from one to ten:
+	<Randomize>
+	Furry visual artwork
+	Furry performing artwork (dance, theater, live music or DJing, etc.)
+	Furry literature
+	Furry conventions
+	Fursuiting
+	Furry online communities
+	Furry role-play*
+	</Randomize>
+* That is, participate in enacting a scene online (IRC, MUCK, forums, etc.) with other furries; this does not refer to Role Playing Games (RPGs) unless those include some aspect of this.
+
+24. Activities outside the furry subculture - regardless of whether or not you are a furry, how often do you:
+	- Options:
+		( ) Never
+		( ) Less than once a year
+		( ) Yearly
+		( ) Several times a year
+		( ) Monthly
+		( ) Several times a month
+		( ) Weekly
+		( ) Daily
+	Play online games
+	Play Role Playing Games (RPGs)
+	Attend non-furry conventions (such as anime, science fiction, etc.)
+	Participate in other online communities
+
+25. Would you describe yourself as (check all that apply):
+	<Randomize>
+	[ ] An animal rights advocate
+	[ ] A vegetarian
+	[ ] Politically active
+	[ ] Otherkin
+	[ ] A hunter
+	[ ] An athlete
+	[ ] A gun owner
+	[ ] Interested in open-source software
+	[ ] Interested in the outdoors (hiking, camping, etc.)
+	[ ] Interested in sports
+	</Randomize>
+
+26. On a scale from one to ten, how important do you think the following are to the furry subculture as a whole?
+	<Randomize>
+	Visual arts
+	Performing arts (dance, theater, live music or DJing, etc.)
+	Writing
+	Online communities
+	Role-play (MUCKs, IRC, forums, etc.)
+	Conventions
+	Fursuiting
+	</Randomize>
+
+27. Which of the following conventions have you attended (or, if they are taking place in 2014, will you attend)?\
+	> Note that this specifically applies to furry conventions, rather than non-furry conventions such as anime or science-fiction conventions. If you have not attended any furry conventions or are not a member of the furry subculture, simply skip this question.
+	(List of furry conventions for the past 10 years plus a 'previous years' option, paginated by 10s, plus an [ ] Other: _____)
+
+<Reevaluate by="YoY,dead sites">
+28. Which of the following websites do you visit regularly, have an account on, or contribute to?
+	- Options
+		[ ] I visit this site
+		[ ] I have an account on this site
+		[ ] I have contributed or posted to this site
+	<Randomize>
+	- [adjective][species]
+	- ArtSpots
+	- Babyfur.me
+	- DeviantArt
+	- e621
+	- F-List
+	- FChan
+	- Flayrah
+	- Fur Affinity
+	- Furcadia
+	- Furnation
+	- Furocity
+	- Furrag
+	- Furry 4 Life
+	- FurryMate
+	- Furry Teen
+	- FurriesXtreme
+	- Furspace
+	- Furtopia
+	- Inkbunny
+	- Nabyn
+	- Pounced
+	- SoFurry
+	- VCL
+	- Weasyl
+	- WikFifur
+	- Other: _____
+	</Randomize>
+</Reevaluate>
+
+29. If you identify with a particular animal or have a particular furry persona, what species is it? Check all that apply: (+ Click to add an *additional* avatar or character)
+	_species_category_[v] _species_subcategory_[v] _species_text_
+	_____reason_for_choosing_this_animal/these_animals_____
+
+Psychographic battery
+{ Remains unchanged }
+
+_____additional_comments_____
+
+[ Submit ] [ Reset ] [ Cancel Survey ]

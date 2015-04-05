@@ -1,0 +1,5 @@
+# Enable virtualenv
+export VENV="/home/vagrant/.venv"
+source $VENV/bin/activate
+
+# BASH_RC_APPENDED
