@@ -21,7 +21,7 @@ fi
 
 # Attempt to fetch data from private repo
 if [ ! -d /vagrant/etc/survey-data ]; then
-    git clone https://bitbucket.org/adjspecies/furrysurvey-data.git /vagrant/etc/survey-data
+    git clone --depth 1 https://bitbucket.org/adjspecies/furrysurvey-data.git /vagrant/etc/survey-data
 fi
 
 # Load mysql databases
