@@ -39,5 +39,5 @@ for year in ['2009', '2010', '2011', '2012', '2013']:
     result = sorted(value['nationalities'].items(), key=lambda x: x[1],
                            reverse=True)
     print "\n{}:".format(year)
-    for i in result[:9]:
+    for i in result:
         print "{}: {:3.2f}%".format(i[0], i[1] / value['n'] * 100)
