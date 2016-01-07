@@ -10,7 +10,7 @@ apt-get update
 apt-get install -y \
     git ipython python-virtualenv libpython-dev python-dev \
     mysql-server postgresql libmysqlclient-dev libpq-dev \
-    language-pack-en
+    mongodb language-pack-en
 
 # Create a python virtualenv for data exploration
 if [ ! -d /home/vagrant/.venv ]; then
@@ -22,6 +22,16 @@ fi
 # Attempt to fetch data from private repo
 if [ ! -d /vagrant/etc/survey-data ]; then
     git clone --depth 1 https://bitbucket.org/adjspecies/furrysurvey-data.git /vagrant/etc/survey-data
+fi
+
+# Attempt to fetch survey from remote repo
+if [ ! -d /vagrant/etc/furrypoll2015 ]; then
+    git clone https://github.com/adjspecies/furrypoll.git /vagrant/etc/furrypoll2015
+    pushd /vagrant/etc/furrypoll2015
+    git checkout 2015_FINAL
+    /home/vagrant/.venv/bin/pip install -r requirements.pip
+    touch __init__.py
+    popd
 fi
 
 # Load mysql databases
@@ -60,6 +70,14 @@ if [ ! -f /var/log/pgsetup ]; then
     update-rc.d postgresql defaults
 
     touch /var/log/pgsetup
+fi
+
+# Load mongo databases
+if [ ! -f /var/log/mongosetup ]; then
+    # Load data
+    mongorestore --drop -d furrypoll_2015 /vagrant/etc/survey-data/furrypoll2015/
+
+    touch /var/log/mongosetup
 fi
 
 # Append bashrc
