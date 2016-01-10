@@ -10,7 +10,7 @@ while True:
         if -4 in touchpoints:
             n += 1
             if -5 in touchpoints:
-                print "what"
+                print "Canceled and also completed, hmm?"
     except:
         break
 

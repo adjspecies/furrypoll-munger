@@ -75,7 +75,7 @@ fi
 # Load mongo databases
 if [ ! -f /var/log/mongosetup ]; then
     # Load data
-    mongorestore --drop -d furrypoll_2015 /vagrant/etc/survey-data/furrypoll2015/
+    mongorestore --drop -d furrypoll_2015 /vagrant/etc/survey-data/furrypoll_2015/
 
     touch /var/log/mongosetup
 fi
