@@ -6,6 +6,7 @@ from results import results2010
 from results import results2011
 from results import results2012
 from results import results2013
+from results import results2015
 
 def main():
     logging.basicConfig(
@@ -16,6 +17,7 @@ def main():
     # The fieldnames used for the CSV DictWriter
     fieldnames = [
         'year',
+        'furry_status',
         'birthdate',
         'biosex',
         'gender',
@@ -247,6 +249,11 @@ def main():
         for row in results2013.buildResults():
             writer.writerow(row)
         logger.info('Done writing 2013')
+
+        logger.info('Writing 2015')
+        for row in results2015.buildResults():
+            writer.writerow(row)
+        logger.info('Done writing 2015')
 
     logger.info('Finished')
 
