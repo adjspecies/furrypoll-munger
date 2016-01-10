@@ -71,7 +71,6 @@ class Results2015():
 
             self.setPolitics(result, response)
             self.setRace(result, response)
-            self.setWhoKnows(result, response)
             self.setHowOften(result, response)
             self.setSelfDescribed(result, response)
             self.setWebsites(result, response)
@@ -106,14 +105,46 @@ class Results2015():
         except:
             return ''
 
-    def setPolitics(self, result, response):
-        pass
     def setRace(self, result, response):
-        pass
-    def setWhoKnows(self, result, response):
-        pass
+        race = self.getObjectiveList(response.overview.race)
+        result['race_white'] = 'white' in race
+        result['race_black'] = 'black' in race
+        result['race_hispanic'] = 'hispanic' in race
+        result['race_asian'] = 'asian' in race
+        result['race_native'] = 'native_american_pacific_islander' in race
+
+    def setPolitics(self, result, response):
+        for answer in response.overview.political_views:
+            if answer.option == 'social':
+                result['politics_social'] = answer.value
+            if answer.option == 'economic':
+                result['politics_economic'] = answer.value
+
     def setHowOften(self, result, response):
-        pass
+        keys = {
+            'chat_online': 'chat_onlin',
+            'role_play': 'roleplay',
+            'attend_conventions': 'attend_conventions',
+            'attend_meets': 'meet_up',
+            'visit_websites': 'visit_furry_websites',
+            'online_communities': 'participate_in_furry_online_communities',
+            'write': 'write',
+            'draw': 'draw',
+        }
+        values = [
+            'Never',
+            'Less than once a year',
+            'Yearly',
+            'Several times a year',
+            'Monthly',
+            'Several times a month',
+            'Weekly',
+            'Daily',
+        ]
+        for answer in response.overview.furry_activities:
+            if answer.option in keys.values():
+                result['howoften_' + keys[answer.option]] = values[answer.value]
+
     def setSelfDescribed(self, result, response):
         pass
     def setWebsites(self, result, response):
