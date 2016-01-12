@@ -1,12 +1,14 @@
 ifeq ($(VIRTUAL_ENV),/home/vagrant/.venv)
 
-all:
-	rm results.csv
-	${MAKE} results.csv
+all: results gender-coords
 
+results:
+	-rm output/results.csv
+	PYTHONPATH=. python bin/build-results.py output
 
-results.csv:
-	PYTHONPATH=. python bin/build-results.py
+gender-coords:
+	-rm output/gid.csv output/gex.csv output/gif.csv
+	PYTHONPATH=. python bin/other/gender-graph-data.py output
 
 else
 
@@ -14,8 +16,10 @@ all:
 	@echo "PLEASE ACTIVATE YOUR VIRTUAL_ENV!"
 	@false
 
-results.csv: all
+results: all
+
+gender-coords: all
 
 endif
 
-.PHONY: all
+.PHONY: all results gender-coords
