@@ -32,14 +32,14 @@ while True:
                 'female_quantized': gid.female_quantized,
             })
         if gex:
-            identity.append({
+            expression.append({
                 'male': gex.male,
                 'female': gex.female,
                 'male_quantized': gex.male_quantized,
                 'female_quantized': gex.female_quantized,
             })
         if gif:
-            identity.append({
+            in_furry.append({
                 'male': gif.male,
                 'female': gif.female,
                 'male_quantized': gif.male_quantized,
