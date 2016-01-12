@@ -1,5 +1,6 @@
 import csv
 import logging
+import sys
 
 from results import results2009
 from results import results2010
@@ -8,7 +9,7 @@ from results import results2012
 from results import results2013
 from results import results2015
 
-def main():
+def main(out_dir):
     logging.basicConfig(
         format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
         level=logging.INFO)
@@ -219,7 +220,7 @@ def main():
     ]
 
     # Write the results out to the CSV file
-    with open('results.csv', 'w') as csvfile:
+    with open(out_dir + '/results.csv', 'w') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
         logger.info('Beginning dump')
@@ -258,4 +259,4 @@ def main():
     logger.info('Finished')
 
 if __name__ == '__main__':
-    main()
+    main(sys.argv[1])

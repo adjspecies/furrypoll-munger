@@ -43,11 +43,11 @@ class Results2015():
                 'relationship':
                     self.getObjectiveResponse(
                         response.overview.relationship),
-                'partner_is_furry': response.overview.partner_is_furry is True,
+                'partner_is_furry': response.overview.partner_is_furry,
                 'polyamorous_romantic':
-                    response.overview.open_relationship_romantic is True,
+                    response.overview.open_relationship_romantic,
                 'polyamorous_sexual':
-                    response.overview.open_relationship_sexual is True,
+                    response.overview.open_relationship_sexual,
                 'howfurry': response.overview.how_furry,
                 'years_known_fandom': response.overview.how_long_known,
                 'years_as_furry': response.overview.how_long_member,
