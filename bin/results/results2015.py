@@ -40,9 +40,7 @@ class Results2015():
                     self.getObjectiveList(response.overview.occupation)[0],
                 'education':
                     self.getObjectiveResponse(response.overview.education),
-                'relationship':
-                    self.getObjectiveResponse(
-                        response.overview.relationship),
+                'relationship': self.getRelationshipStatus(response),
                 'partner_is_furry': response.overview.partner_is_furry,
                 'polyamorous_romantic':
                     response.overview.open_relationship_romantic,
@@ -175,6 +173,19 @@ class Results2015():
                 'agnostic': 'Agnostic',
                 'Other': 'Other',
             }[response.overview.spirituality.value]
+        except:
+            return None
+
+    def getRelationshipStatus(self, response):
+        try:
+            return {
+                'casual': 'Casual relationship',
+                'legal_non_marriage':
+                    'Legally recognized non-marriage relationship',
+                'long_term_committed': 'Long-term relationship',
+                'married': 'Marriage',
+                'single': 'Single',
+            }[response.overview.relationship.value]
         except:
             return None
 
