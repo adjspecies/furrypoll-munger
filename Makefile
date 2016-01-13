@@ -28,4 +28,4 @@ overview: all
 
 endif
 
-.PHONY: all results gender-coords
+.PHONY: all results gender-coords overview
