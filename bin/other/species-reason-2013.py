@@ -34,7 +34,7 @@ numRows = cursor.rowcount
 
 seen = []
 
-with open('species-reasons.csv', 'wb') as f:
+with open('species-reasons-2013.csv', 'wb') as f:
     writer = csv.writer(f)
     writer.writerow(('species', 'reason'))
     for i in range(0, numRows):
