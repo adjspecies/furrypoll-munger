@@ -26,9 +26,18 @@ fi
 
 # Attempt to fetch survey from remote repo
 if [ ! -d /vagrant/etc/furrypoll2015 ]; then
-    git clone https://github.com/adjspecies/furrypoll.git /vagrant/etc/furrypoll2015
+    git clone https://github.com/adjspecies/furrypoll.git --depth=1 /vagrant/etc/furrypoll2015
     pushd /vagrant/etc/furrypoll2015
     git checkout 2015_FINAL
+    /home/vagrant/.venv/bin/pip install -r requirements.pip
+    touch __init__.py
+    popd
+fi
+
+if [ ! -d /vagrant/etc/furrypoll2016 ]; then
+    git clone https://github.com/adjspecies/furrypoll.git --depth=1 /vagrant/etc/furrypoll2016
+    pushd /vagrant/etc/furrypoll2016
+    git checkout 2016_FINAL
     /home/vagrant/.venv/bin/pip install -r requirements.pip
     touch __init__.py
     popd
@@ -76,6 +85,7 @@ fi
 if [ ! -f /var/log/mongosetup ]; then
     # Load data
     mongorestore --drop -d furrypoll_2015 /vagrant/etc/survey-data/furrypoll_2015/
+    mongorestore --drop -d furrypoll_2016 /vagrant/etc/survey-data/furrypoll_2016/
 
     touch /var/log/mongosetup
 fi

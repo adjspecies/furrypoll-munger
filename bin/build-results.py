@@ -8,6 +8,7 @@ from results import results2011
 from results import results2012
 from results import results2013
 from results import results2015
+from results import results2016
 
 def main(out_dir):
     logging.basicConfig(
@@ -255,6 +256,11 @@ def main(out_dir):
         for row in results2015.buildResults():
             writer.writerow(row)
         logger.info('Done writing 2015')
+
+        logger.info('Writing 2016')
+        for row in results2016.buildResults():
+            writer.writerow(row)
+        logger.info('Done writing 2016')
 
     logger.info('Finished')
 
