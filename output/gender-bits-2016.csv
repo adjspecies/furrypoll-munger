@@ -10,7 +10,6 @@ Age,Gender Identity,Gender Alignment
 20,neutrois,transgender
 42,female,transgender
 35,neutrois,transgender
-,,
 29,female,transgender
 25,mostly_female,transgender
 20,male,cisgender
@@ -35,7 +34,6 @@ Age,Gender Identity,Gender Alignment
 20,mostly_male,cisgender
 23,male,cisgender
 32,male,cisgender
-,,
 17,mostly_male,complicated
 35,male,cisgender
 32,male,cisgender
@@ -45,12 +43,10 @@ Age,Gender Identity,Gender Alignment
 35,male,cisgender
 21,male,cisgender
 20,male,cisgender
-27,male,
 28,male,cisgender
 46,male,cisgender
 26,male,cisgender
 30,male,cisgender
-,male,cisgender
 0,female,transgender
 24,male,cisgender
 26,male,cisgender
@@ -71,7 +67,6 @@ Age,Gender Identity,Gender Alignment
 25,male,cisgender
 30,male,cisgender
 25,mostly_female,complicated
-33,genderqueer,
 22,male,cisgender
 25,male,cisgender
 31,male,cisgender
@@ -123,7 +118,6 @@ Age,Gender Identity,Gender Alignment
 20,male,cisgender
 37,female,cisgender
 17,male,cisgender
-,male,cisgender
 16,female,cisgender
 32,male,cisgender
 17,male,cisgender
@@ -163,11 +157,8 @@ Age,Gender Identity,Gender Alignment
 16,male,cisgender
 19,male,cisgender
 21,male,cisgender
-,male,cisgender
 17,female,cisgender
 19,male,cisgender
-,,
-,,
 18,male,cisgender
 16,male,cisgender
 55,male,cisgender
@@ -185,7 +176,6 @@ Age,Gender Identity,Gender Alignment
 18,female,cisgender
 22,male,cisgender
 19,female,cisgender
-42,mostly_female,
 19,mostly_female,complicated
 23,male,cisgender
 40,female,cisgender
@@ -195,7 +185,6 @@ Age,Gender Identity,Gender Alignment
 26,male,cisgender
 24,male,cisgender
 17,male,cisgender
-,female,cisgender
 14,male,cisgender
 19,genderqueer,transgender
 17,male,cisgender
@@ -235,7 +224,6 @@ Age,Gender Identity,Gender Alignment
 28,male,cisgender
 19,mostly_female,cisgender
 24,female,cisgender
-19,male,
 17,female,cisgender
 36,female,cisgender
 21,male,cisgender
@@ -243,7 +231,6 @@ Age,Gender Identity,Gender Alignment
 25,male,transgender
 29,male,cisgender
 20,male,cisgender
-30,,transgender
 20,female,cisgender
 18,mostly_female,cisgender
 18,male,cisgender
@@ -259,7 +246,6 @@ Age,Gender Identity,Gender Alignment
 25,mostly_female,transgender
 16,mostly_male,cisgender
 20,mostly_male,cisgender
-,male,complicated
 19,mostly_female,cisgender
 32,male,cisgender
 20,male,cisgender
@@ -297,7 +283,6 @@ Age,Gender Identity,Gender Alignment
 25,male,cisgender
 30,male,cisgender
 19,female,cisgender
-,male,cisgender
 22,neutrois,transgender
 18,mostly_female,cisgender
 31,mostly_male,cisgender
@@ -319,7 +304,6 @@ Age,Gender Identity,Gender Alignment
 21,male,transgender
 20,female,transgender
 24,male,cisgender
-,male,cisgender
 21,male,cisgender
 39,female,cisgender
 21,male,cisgender
@@ -353,7 +337,6 @@ Age,Gender Identity,Gender Alignment
 22,male,transgender
 22,male,cisgender
 22,genderqueer,transgender
-30,,complicated
 22,female,cisgender
 0,male,cisgender
 23,male,cisgender
@@ -379,8 +362,6 @@ Age,Gender Identity,Gender Alignment
 24,male,cisgender
 49,male,cisgender
 22,male,cisgender
-20,,complicated
-19,male,
 34,mostly_female,cisgender
 27,male,cisgender
 25,male,cisgender
@@ -396,7 +377,6 @@ Age,Gender Identity,Gender Alignment
 19,mostly_male,complicated
 29,male,cisgender
 20,female,cisgender
-,mostly_female,cisgender
 15,male,complicated
 14,female,cisgender
 22,nonbinary_nos,complicated
@@ -420,7 +400,6 @@ Age,Gender Identity,Gender Alignment
 32,male,cisgender
 16,male,cisgender
 29,male,cisgender
-17,both,
 25,male,cisgender
 30,both,transgender
 32,male,cisgender
@@ -508,18 +487,14 @@ Age,Gender Identity,Gender Alignment
 19,male,cisgender
 30,nonbinary_nos,transgender
 29,male,cisgender
-,male,cisgender
 22,female,cisgender
-,male,cisgender
 19,female,cisgender
 26,male,cisgender
 28,male,cisgender
-,male,
 53,male,cisgender
 24,genderqueer,transgender
 28,female,cisgender
 27,male,cisgender
-23,,transgender
 34,male,cisgender
 34,male,cisgender
 18,genderqueer,complicated
@@ -536,11 +511,8 @@ Age,Gender Identity,Gender Alignment
 0,mostly_male,cisgender
 21,male,cisgender
 34,mostly_male,cisgender
-,male,cisgender
-25,,complicated
 24,neutrois,transgender
 36,male,cisgender
-25,,cisgender
 29,male,cisgender
 22,mostly_female,cisgender
 30,male,cisgender
@@ -555,19 +527,16 @@ Age,Gender Identity,Gender Alignment
 22,male,cisgender
 19,male,cisgender
 29,male,cisgender
-,,
 18,female,cisgender
 17,male,cisgender
 24,male,cisgender
 30,male,cisgender
-45,male,
 48,male,cisgender
 24,male,transgender
 19,genderqueer,transgender
 28,male,cisgender
 19,male,cisgender
 24,mostly_male,cisgender
-44,,transgender
 18,male,cisgender
 23,mostly_female,cisgender
 33,mostly_female,cisgender
@@ -588,7 +557,6 @@ Age,Gender Identity,Gender Alignment
 18,male,cisgender
 26,mostly_male,transgender
 19,male,cisgender
-,male,cisgender
 29,male,cisgender
 15,male,cisgender
 20,male,cisgender
@@ -600,22 +568,18 @@ Age,Gender Identity,Gender Alignment
 24,male,cisgender
 23,mostly_female,transgender
 25,male,cisgender
-16,,complicated
 21,female,cisgender
 17,male,cisgender
-,male,
 0,both,transgender
 24,male,cisgender
 31,male,cisgender
 20,male,cisgender
 22,male,cisgender
-,male,cisgender
 24,female,cisgender
 18,male,cisgender
 23,male,cisgender
 25,male,cisgender
 28,male,cisgender
-18,genderqueer,
 24,male,cisgender
 20,male,cisgender
 31,male,cisgender
@@ -745,7 +709,6 @@ Age,Gender Identity,Gender Alignment
 35,male,cisgender
 29,nonbinary_nos,complicated
 20,male,cisgender
-32,,
 21,mostly_male,cisgender
 27,male,cisgender
 26,genderqueer,complicated
@@ -777,11 +740,9 @@ Age,Gender Identity,Gender Alignment
 21,male,cisgender
 27,male,cisgender
 25,female,transgender
-,,
 23,male,cisgender
 23,male,cisgender
 40,male,cisgender
-,male,cisgender
 24,genderqueer,complicated
 20,male,cisgender
 19,genderqueer,transgender
@@ -791,7 +752,6 @@ Age,Gender Identity,Gender Alignment
 25,male,cisgender
 24,nonbinary_nos,complicated
 20,male,cisgender
-,mostly_male,cisgender
 23,male,cisgender
 18,male,complicated
 31,male,cisgender
@@ -825,7 +785,6 @@ Age,Gender Identity,Gender Alignment
 21,male,cisgender
 16,male,cisgender
 23,male,cisgender
-20,,transgender
 23,mostly_female,cisgender
 23,male,cisgender
 33,male,cisgender
@@ -842,7 +801,6 @@ Age,Gender Identity,Gender Alignment
 22,male,cisgender
 22,male,cisgender
 18,male,cisgender
-,genderqueer,transgender
 15,female,transgender
 30,male,cisgender
 26,male,cisgender
@@ -864,7 +822,6 @@ Age,Gender Identity,Gender Alignment
 25,male,transgender
 17,female,cisgender
 39,male,cisgender
-,male,cisgender
 18,male,cisgender
 22,male,cisgender
 17,male,cisgender
@@ -906,7 +863,6 @@ Age,Gender Identity,Gender Alignment
 34,male,cisgender
 29,male,cisgender
 19,male,cisgender
-22,,transgender
 20,male,cisgender
 20,male,cisgender
 24,male,cisgender
@@ -929,7 +885,6 @@ Age,Gender Identity,Gender Alignment
 30,both,complicated
 25,female,cisgender
 39,male,cisgender
-,male,cisgender
 28,neutrois,cisgender
 31,male,cisgender
 26,male,cisgender
@@ -958,7 +913,6 @@ Age,Gender Identity,Gender Alignment
 27,male,cisgender
 27,male,cisgender
 27,genderqueer,complicated
-,,
 19,male,cisgender
 17,male,cisgender
 19,mostly_male,cisgender
@@ -984,7 +938,6 @@ Age,Gender Identity,Gender Alignment
 25,genderqueer,transgender
 21,male,cisgender
 37,male,cisgender
-31,,transgender
 16,female,cisgender
 29,male,cisgender
 37,male,cisgender
@@ -996,7 +949,6 @@ Age,Gender Identity,Gender Alignment
 14,male,cisgender
 21,male,cisgender
 23,male,cisgender
-,,
 22,male,cisgender
 16,male,cisgender
 27,male,cisgender
@@ -1037,7 +989,6 @@ Age,Gender Identity,Gender Alignment
 24,male,cisgender
 23,male,cisgender
 20,male,cisgender
-,,
 24,mostly_male,cisgender
 26,male,cisgender
 24,male,cisgender
@@ -1060,7 +1011,6 @@ Age,Gender Identity,Gender Alignment
 26,male,cisgender
 23,male,cisgender
 27,male,cisgender
-20,,transgender
 18,male,cisgender
 26,genderqueer,cisgender
 16,neutrois,transgender
@@ -1074,7 +1024,6 @@ Age,Gender Identity,Gender Alignment
 24,female,cisgender
 28,male,cisgender
 23,male,transgender
-,,
 41,genderqueer,complicated
 19,male,cisgender
 26,male,cisgender
@@ -1082,7 +1031,6 @@ Age,Gender Identity,Gender Alignment
 45,male,cisgender
 26,male,cisgender
 20,male,cisgender
-,male,cisgender
 32,male,cisgender
 20,male,cisgender
 19,genderqueer,complicated
@@ -1098,7 +1046,6 @@ Age,Gender Identity,Gender Alignment
 26,male,cisgender
 32,female,cisgender
 24,male,cisgender
-,,
 19,male,cisgender
 19,female,transgender
 25,male,cisgender
@@ -1130,14 +1077,12 @@ Age,Gender Identity,Gender Alignment
 21,male,cisgender
 20,male,transgender
 26,male,cisgender
-22,,transgender
 19,mostly_male,cisgender
 27,male,cisgender
 25,genderqueer,cisgender
 19,both,transgender
 30,male,cisgender
 25,male,cisgender
-16,mostly_male,
 22,male,cisgender
 23,male,cisgender
 25,male,cisgender
@@ -1148,7 +1093,6 @@ Age,Gender Identity,Gender Alignment
 14,male,cisgender
 17,male,cisgender
 27,male,cisgender
-,,
 18,mostly_female,cisgender
 18,male,cisgender
 15,mostly_male,cisgender
@@ -1162,7 +1106,6 @@ Age,Gender Identity,Gender Alignment
 32,female,cisgender
 20,male,cisgender
 34,mostly_female,cisgender
-,male,cisgender
 29,male,cisgender
 19,male,cisgender
 15,male,cisgender
@@ -1186,21 +1129,16 @@ Age,Gender Identity,Gender Alignment
 27,mostly_male,cisgender
 24,male,cisgender
 26,male,cisgender
-,,
 19,genderqueer,transgender
 34,male,cisgender
-24,,cisgender
 27,genderqueer,transgender
 22,male,cisgender
-,female,cisgender
 24,male,cisgender
 20,male,cisgender
 18,male,cisgender
 18,male,cisgender
 25,female,cisgender
-,male,cisgender
 16,female,cisgender
-,,
 13,female,cisgender
 30,mostly_female,complicated
 16,female,cisgender
@@ -1209,7 +1147,6 @@ Age,Gender Identity,Gender Alignment
 15,male,cisgender
 33,male,cisgender
 16,female,cisgender
-,male,cisgender
 20,male,cisgender
 23,mostly_male,cisgender
 30,genderqueer,cisgender
@@ -1236,7 +1173,6 @@ Age,Gender Identity,Gender Alignment
 30,male,cisgender
 24,male,cisgender
 28,male,cisgender
-,male,cisgender
 26,male,cisgender
 29,male,cisgender
 28,male,cisgender
@@ -1253,7 +1189,6 @@ Age,Gender Identity,Gender Alignment
 22,male,cisgender
 22,male,cisgender
 20,male,cisgender
-,male,cisgender
 23,male,cisgender
 18,male,cisgender
 17,male,cisgender
@@ -1268,7 +1203,6 @@ Age,Gender Identity,Gender Alignment
 18,male,cisgender
 25,male,cisgender
 19,male,cisgender
-,male,cisgender
 20,mostly_male,cisgender
 25,male,cisgender
 19,male,cisgender
@@ -1283,7 +1217,6 @@ Age,Gender Identity,Gender Alignment
 19,male,cisgender
 18,male,cisgender
 21,male,cisgender
-,,
 17,male,cisgender
 19,male,cisgender
 17,male,cisgender
@@ -1310,13 +1243,11 @@ Age,Gender Identity,Gender Alignment
 24,male,cisgender
 19,male,cisgender
 34,female,transgender
-16,male,
 29,male,cisgender
 17,mostly_male,complicated
 20,male,cisgender
 24,male,cisgender
 25,male,cisgender
-26,male,
 25,male,cisgender
 18,male,cisgender
 23,male,cisgender
@@ -1345,7 +1276,6 @@ Age,Gender Identity,Gender Alignment
 14,mostly_female,cisgender
 15,male,cisgender
 20,male,cisgender
-,,
 25,mostly_male,cisgender
 19,male,cisgender
 18,male,cisgender
@@ -1384,7 +1314,6 @@ Age,Gender Identity,Gender Alignment
 18,male,cisgender
 16,male,cisgender
 14,male,cisgender
-,male,cisgender
 19,mostly_male,cisgender
 18,male,cisgender
 20,male,cisgender
@@ -1448,7 +1377,6 @@ Age,Gender Identity,Gender Alignment
 23,female,cisgender
 29,male,cisgender
 22,male,cisgender
-19,male,
 23,genderqueer,complicated
 23,male,cisgender
 26,male,cisgender
@@ -1511,7 +1439,6 @@ Age,Gender Identity,Gender Alignment
 32,male,cisgender
 31,male,cisgender
 32,male,cisgender
-,,
 34,genderqueer,transgender
 18,male,cisgender
 22,female,cisgender
@@ -1534,7 +1461,6 @@ Age,Gender Identity,Gender Alignment
 22,male,cisgender
 20,male,cisgender
 19,male,cisgender
-27,,cisgender
 15,female,cisgender
 49,male,cisgender
 24,male,cisgender
@@ -1557,7 +1483,6 @@ Age,Gender Identity,Gender Alignment
 20,male,cisgender
 18,male,cisgender
 20,female,transgender
-18,mostly_male,
 39,mostly_male,cisgender
 21,genderqueer,complicated
 14,male,cisgender
@@ -1571,14 +1496,11 @@ Age,Gender Identity,Gender Alignment
 21,male,cisgender
 24,female,cisgender
 35,male,cisgender
-,,
 17,male,transgender
 20,mostly_female,complicated
 19,male,cisgender
 20,male,cisgender
-,mostly_male,cisgender
 32,male,cisgender
-,,
 16,male,cisgender
 18,male,cisgender
 17,male,cisgender
@@ -1628,7 +1550,6 @@ Age,Gender Identity,Gender Alignment
 19,male,cisgender
 20,male,cisgender
 25,genderqueer,complicated
-,female,cisgender
 19,male,cisgender
 24,male,cisgender
 23,male,cisgender
@@ -1654,7 +1575,6 @@ Age,Gender Identity,Gender Alignment
 19,male,cisgender
 18,male,cisgender
 17,male,cisgender
-24,male,
 20,male,cisgender
 19,male,cisgender
 35,male,cisgender
@@ -1670,7 +1590,6 @@ Age,Gender Identity,Gender Alignment
 19,male,cisgender
 17,male,cisgender
 28,male,cisgender
-19,male,
 21,male,cisgender
 26,mostly_male,cisgender
 49,male,cisgender
@@ -1714,8 +1633,6 @@ Age,Gender Identity,Gender Alignment
 23,female,cisgender
 17,male,cisgender
 26,genderqueer,complicated
-,,
-,male,cisgender
 19,male,cisgender
 25,male,cisgender
 25,male,cisgender
@@ -1774,9 +1691,7 @@ Age,Gender Identity,Gender Alignment
 17,male,cisgender
 15,male,cisgender
 21,male,cisgender
-,female,cisgender
 24,male,cisgender
-,,
 33,female,transgender
 20,male,cisgender
 25,male,cisgender
@@ -1804,10 +1719,6 @@ Age,Gender Identity,Gender Alignment
 23,male,cisgender
 17,male,cisgender
 17,male,cisgender
-,male,cisgender
-,,
-,,
-,male,complicated
 24,male,cisgender
 19,male,cisgender
 24,male,cisgender
@@ -1828,7 +1739,6 @@ Age,Gender Identity,Gender Alignment
 17,neutrois,transgender
 35,male,cisgender
 19,male,cisgender
-,,
 23,male,cisgender
 24,mostly_female,complicated
 35,male,cisgender
@@ -1843,7 +1753,6 @@ Age,Gender Identity,Gender Alignment
 26,male,cisgender
 24,mostly_female,complicated
 32,female,cisgender
-23,,transgender
 22,male,cisgender
 20,male,cisgender
 44,male,cisgender
@@ -1871,7 +1780,6 @@ Age,Gender Identity,Gender Alignment
 28,mostly_male,cisgender
 16,male,cisgender
 15,male,cisgender
-22,,complicated
 28,male,cisgender
 17,male,cisgender
 24,female,cisgender
@@ -1892,20 +1800,16 @@ Age,Gender Identity,Gender Alignment
 20,female,cisgender
 20,male,cisgender
 18,male,cisgender
-28,,cisgender
 27,genderqueer,complicated
 21,female,cisgender
 36,male,cisgender
 28,mostly_male,complicated
 25,male,cisgender
 30,both,transgender
-,,
 15,mostly_female,cisgender
 16,male,transgender
 28,genderqueer,transgender
-,mostly_female,cisgender
 15,male,complicated
-,male,cisgender
 22,male,complicated
 18,mostly_male,complicated
 25,mostly_male,cisgender
@@ -1922,7 +1826,6 @@ Age,Gender Identity,Gender Alignment
 21,male,cisgender
 17,male,cisgender
 30,male,cisgender
-25,male,
 25,male,cisgender
 20,male,cisgender
 22,male,cisgender
@@ -1938,7 +1841,6 @@ Age,Gender Identity,Gender Alignment
 31,male,cisgender
 15,mostly_female,transgender
 26,female,cisgender
-32,mostly_male,
 26,male,cisgender
 24,male,cisgender
 17,male,cisgender
@@ -1949,13 +1851,10 @@ Age,Gender Identity,Gender Alignment
 26,male,cisgender
 29,male,cisgender
 27,genderqueer,complicated
-,male,cisgender
-,,
 35,mostly_male,cisgender
 23,male,cisgender
 19,male,cisgender
 14,male,cisgender
-,male,cisgender
 18,male,cisgender
 30,male,cisgender
 25,male,cisgender
@@ -1966,9 +1865,7 @@ Age,Gender Identity,Gender Alignment
 22,male,cisgender
 30,male,cisgender
 22,female,cisgender
-,,
 0,male,cisgender
-19,,transgender
 18,female,cisgender
 19,male,cisgender
 18,male,cisgender
@@ -1984,7 +1881,6 @@ Age,Gender Identity,Gender Alignment
 23,male,cisgender
 28,nonbinary_nos,complicated
 21,male,cisgender
-,,
 14,male,cisgender
 25,male,cisgender
 22,genderqueer,complicated
@@ -1997,7 +1893,6 @@ Age,Gender Identity,Gender Alignment
 17,nonbinary_nos,transgender
 18,female,cisgender
 35,male,cisgender
-,mostly_male,complicated
 27,male,transgender
 17,male,cisgender
 21,male,cisgender
@@ -2006,7 +1901,6 @@ Age,Gender Identity,Gender Alignment
 20,mostly_female,complicated
 16,male,cisgender
 31,mostly_male,complicated
-,male,complicated
 15,male,cisgender
 35,male,cisgender
 17,male,cisgender
@@ -2014,11 +1908,8 @@ Age,Gender Identity,Gender Alignment
 21,male,cisgender
 19,female,transgender
 29,genderqueer,complicated
-,female,cisgender
 16,neutrois,transgender
-,,
 19,male,cisgender
-68,,cisgender
 18,female,cisgender
 15,male,cisgender
 17,male,cisgender
@@ -2040,7 +1931,6 @@ Age,Gender Identity,Gender Alignment
 16,mostly_male,cisgender
 22,male,cisgender
 15,male,cisgender
-,male,cisgender
 22,male,cisgender
 22,mostly_male,cisgender
 19,male,cisgender
@@ -2065,8 +1955,6 @@ Age,Gender Identity,Gender Alignment
 27,male,cisgender
 22,male,cisgender
 12,male,cisgender
-99,,complicated
-,male,cisgender
 21,male,cisgender
 37,male,cisgender
 29,mostly_female,cisgender
@@ -2082,7 +1970,6 @@ Age,Gender Identity,Gender Alignment
 26,female,cisgender
 26,male,cisgender
 23,male,cisgender
-,mostly_female,complicated
 12,female,cisgender
 19,male,cisgender
 18,male,cisgender
@@ -2103,8 +1990,6 @@ Age,Gender Identity,Gender Alignment
 15,male,cisgender
 16,male,cisgender
 20,male,cisgender
-,,
-,male,
 20,male,cisgender
 16,male,cisgender
 15,mostly_male,cisgender
@@ -2116,7 +2001,6 @@ Age,Gender Identity,Gender Alignment
 29,nonbinary_nos,cisgender
 17,male,cisgender
 32,genderqueer,complicated
-17,nonbinary_nos,
 28,mostly_male,transgender
 34,female,cisgender
 16,male,cisgender
@@ -2139,7 +2023,6 @@ Age,Gender Identity,Gender Alignment
 22,male,cisgender
 20,male,cisgender
 20,male,cisgender
-,male,cisgender
 25,male,cisgender
 38,male,cisgender
 21,female,cisgender
@@ -2156,7 +2039,6 @@ Age,Gender Identity,Gender Alignment
 14,male,cisgender
 32,female,cisgender
 36,male,cisgender
-,male,cisgender
 31,male,transgender
 17,male,cisgender
 23,male,cisgender
@@ -2164,7 +2046,6 @@ Age,Gender Identity,Gender Alignment
 18,both,cisgender
 22,mostly_male,transgender
 26,mostly_male,cisgender
-,female,cisgender
 16,male,cisgender
 26,female,cisgender
 17,male,cisgender
@@ -2203,7 +2084,6 @@ Age,Gender Identity,Gender Alignment
 17,male,cisgender
 16,male,cisgender
 14,male,cisgender
-14,,transgender
 17,male,cisgender
 13,male,cisgender
 24,mostly_male,cisgender
@@ -2227,7 +2107,6 @@ Age,Gender Identity,Gender Alignment
 20,male,cisgender
 17,neutrois,transgender
 16,mostly_male,cisgender
-23,,
 19,male,cisgender
 17,male,cisgender
 19,male,cisgender
@@ -2238,13 +2117,11 @@ Age,Gender Identity,Gender Alignment
 48,male,cisgender
 26,male,cisgender
 22,male,cisgender
-,male,cisgender
 26,male,cisgender
 18,mostly_male,cisgender
 21,female,cisgender
 24,mostly_male,cisgender
 18,nonbinary_nos,transgender
-,male,cisgender
 18,female,cisgender
 24,male,cisgender
 12,male,cisgender
@@ -2252,9 +2129,7 @@ Age,Gender Identity,Gender Alignment
 19,male,cisgender
 13,mostly_female,cisgender
 15,male,cisgender
-,male,cisgender
 19,male,cisgender
-17,,complicated
 23,female,cisgender
 15,male,cisgender
 22,male,cisgender
@@ -2263,13 +2138,11 @@ Age,Gender Identity,Gender Alignment
 17,male,cisgender
 17,male,cisgender
 16,mostly_male,transgender
-,male,cisgender
 21,male,cisgender
 15,male,cisgender
 17,female,cisgender
 25,male,cisgender
 17,neutrois,complicated
-26,,transgender
 23,male,cisgender
 18,genderqueer,complicated
 0,neutrois,complicated
@@ -2299,7 +2172,6 @@ Age,Gender Identity,Gender Alignment
 23,male,cisgender
 26,mostly_male,cisgender
 25,male,cisgender
-15,,complicated
 28,male,cisgender
 1,neutrois,complicated
 25,male,cisgender
@@ -2358,7 +2230,6 @@ Age,Gender Identity,Gender Alignment
 23,male,cisgender
 18,male,cisgender
 16,male,cisgender
-,male,cisgender
 59,male,cisgender
 15,male,cisgender
 16,male,transgender
@@ -2372,7 +2243,6 @@ Age,Gender Identity,Gender Alignment
 19,male,cisgender
 20,both,complicated
 22,male,cisgender
-18,,cisgender
 27,male,cisgender
 24,male,cisgender
 25,neutrois,complicated
@@ -2381,13 +2251,10 @@ Age,Gender Identity,Gender Alignment
 20,mostly_male,cisgender
 17,male,cisgender
 18,male,cisgender
-,male,cisgender
 17,genderqueer,complicated
 33,male,cisgender
-,male,complicated
 17,male,cisgender
 27,female,cisgender
-,,
 24,male,cisgender
 19,male,cisgender
 18,male,cisgender
@@ -2413,7 +2280,6 @@ Age,Gender Identity,Gender Alignment
 15,male,cisgender
 22,both,transgender
 21,mostly_male,cisgender
-18,,complicated
 18,male,cisgender
 23,male,cisgender
 21,male,cisgender
@@ -2422,16 +2288,13 @@ Age,Gender Identity,Gender Alignment
 24,male,cisgender
 19,female,transgender
 17,male,cisgender
-,male,cisgender
 24,male,cisgender
 28,male,cisgender
 19,female,transgender
 21,male,cisgender
-,,
 22,male,cisgender
 28,male,cisgender
 20,female,cisgender
-,male,cisgender
 39,male,cisgender
 17,male,cisgender
 20,male,cisgender
@@ -2444,8 +2307,6 @@ Age,Gender Identity,Gender Alignment
 21,female,cisgender
 14,male,cisgender
 19,male,cisgender
-16,male,
-,male,cisgender
 18,male,cisgender
 20,male,cisgender
 23,female,cisgender
@@ -2484,7 +2345,6 @@ Age,Gender Identity,Gender Alignment
 20,male,cisgender
 30,male,cisgender
 23,male,cisgender
-,,
 22,male,cisgender
 22,male,cisgender
 22,male,cisgender
@@ -2498,15 +2358,12 @@ Age,Gender Identity,Gender Alignment
 22,female,cisgender
 21,male,cisgender
 24,female,cisgender
-17,,
 22,male,cisgender
 17,male,cisgender
 18,male,cisgender
 15,male,cisgender
 23,male,cisgender
-22,male,
 20,male,cisgender
-15,male,
 19,male,cisgender
 18,male,cisgender
 15,male,cisgender
@@ -2538,7 +2395,6 @@ Age,Gender Identity,Gender Alignment
 22,male,cisgender
 18,mostly_male,cisgender
 23,female,cisgender
-,male,cisgender
 16,male,cisgender
 14,male,transgender
 31,male,cisgender
@@ -2579,17 +2435,13 @@ Age,Gender Identity,Gender Alignment
 23,male,cisgender
 17,male,cisgender
 23,male,cisgender
-18,,cisgender
-,male,cisgender
 28,male,cisgender
 24,male,cisgender
 23,male,cisgender
 34,male,cisgender
-,,transgender
 24,mostly_female,cisgender
 27,mostly_male,cisgender
 17,male,cisgender
-25,male,
 25,female,transgender
 17,male,cisgender
 23,neutrois,complicated
@@ -2606,13 +2458,11 @@ Age,Gender Identity,Gender Alignment
 30,male,cisgender
 24,male,cisgender
 18,male,cisgender
-,male,cisgender
 22,female,transgender
 22,male,cisgender
 15,male,cisgender
 16,male,cisgender
 16,male,cisgender
-20,male,
 15,male,cisgender
 17,male,cisgender
 23,genderqueer,complicated
@@ -2638,11 +2488,8 @@ Age,Gender Identity,Gender Alignment
 18,male,cisgender
 17,male,cisgender
 26,female,cisgender
-,female,cisgender
 20,male,cisgender
 16,male,cisgender
-,,
-24,male,
 23,male,cisgender
 31,mostly_male,complicated
 26,male,cisgender
@@ -2656,12 +2503,10 @@ Age,Gender Identity,Gender Alignment
 17,mostly_male,transgender
 23,mostly_male,cisgender
 25,male,cisgender
-,,
 21,male,cisgender
 14,male,cisgender
 21,male,cisgender
 22,male,cisgender
-,male,cisgender
 20,male,cisgender
 24,male,cisgender
 16,male,cisgender
@@ -2690,7 +2535,6 @@ Age,Gender Identity,Gender Alignment
 14,male,cisgender
 14,male,cisgender
 17,male,cisgender
-,male,cisgender
 26,female,cisgender
 15,male,cisgender
 15,mostly_female,cisgender
@@ -2721,12 +2565,8 @@ Age,Gender Identity,Gender Alignment
 21,male,cisgender
 30,female,cisgender
 17,male,cisgender
-18,female,
 14,male,cisgender
-23,,complicated
-,,
 16,male,cisgender
-,male,cisgender
 19,male,cisgender
 15,male,cisgender
 16,male,cisgender
@@ -2742,7 +2582,6 @@ Age,Gender Identity,Gender Alignment
 20,both,complicated
 27,male,cisgender
 33,male,cisgender
-,,
 26,male,cisgender
 24,male,cisgender
 23,male,cisgender
@@ -2775,15 +2614,12 @@ Age,Gender Identity,Gender Alignment
 16,mostly_male,cisgender
 38,male,cisgender
 15,male,cisgender
-15,mostly_male,
 26,male,cisgender
 17,genderqueer,complicated
 16,male,cisgender
 14,female,cisgender
 25,male,cisgender
-16,male,
 14,male,complicated
-,,complicated
 19,male,cisgender
 30,nonbinary_nos,complicated
 23,neutrois,transgender
@@ -2799,7 +2635,6 @@ Age,Gender Identity,Gender Alignment
 16,female,cisgender
 16,genderqueer,complicated
 16,male,cisgender
-,,
 18,male,cisgender
 16,mostly_male,cisgender
 13,male,cisgender
@@ -2827,7 +2662,6 @@ Age,Gender Identity,Gender Alignment
 27,male,cisgender
 16,both,transgender
 19,mostly_male,cisgender
-18,female,
 16,male,cisgender
 18,male,cisgender
 20,female,cisgender
@@ -2837,12 +2671,10 @@ Age,Gender Identity,Gender Alignment
 27,male,cisgender
 20,male,cisgender
 16,male,cisgender
-16,mostly_male,
 18,male,cisgender
 17,female,cisgender
 17,male,cisgender
 23,mostly_male,cisgender
-36,neutrois,
 16,female,cisgender
 18,male,cisgender
 29,male,complicated
@@ -2874,16 +2706,13 @@ Age,Gender Identity,Gender Alignment
 39,male,cisgender
 29,mostly_male,cisgender
 16,male,cisgender
-21,male,
 23,male,cisgender
 18,male,cisgender
 29,male,cisgender
-,,
 19,male,cisgender
 19,male,cisgender
 24,male,cisgender
 21,male,cisgender
-,,
 22,male,cisgender
 19,mostly_male,cisgender
 30,male,cisgender
@@ -2909,9 +2738,7 @@ Age,Gender Identity,Gender Alignment
 18,male,cisgender
 16,male,cisgender
 29,male,cisgender
-,,cisgender
 16,female,cisgender
-18,male,
 16,male,cisgender
 28,male,cisgender
 17,female,cisgender
@@ -2934,10 +2761,8 @@ Age,Gender Identity,Gender Alignment
 20,mostly_male,complicated
 13,male,cisgender
 13,male,cisgender
-26,,complicated
 17,female,cisgender
 18,male,cisgender
-,female,cisgender
 13,female,cisgender
 19,male,cisgender
 35,male,cisgender
@@ -2956,7 +2781,6 @@ Age,Gender Identity,Gender Alignment
 18,mostly_male,complicated
 13,male,cisgender
 34,mostly_female,complicated
-18,both,
 25,male,cisgender
 12,neutrois,transgender
 15,male,cisgender
@@ -2965,14 +2789,12 @@ Age,Gender Identity,Gender Alignment
 15,female,cisgender
 17,male,cisgender
 18,male,transgender
-15,mostly_female,
 17,mostly_male,cisgender
 18,male,cisgender
 26,male,cisgender
 15,mostly_male,cisgender
 24,male,cisgender
 18,male,cisgender
-,,
 16,male,cisgender
 19,male,cisgender
 23,male,cisgender
@@ -2980,7 +2802,6 @@ Age,Gender Identity,Gender Alignment
 23,male,cisgender
 24,male,cisgender
 21,male,cisgender
-28,,cisgender
 19,male,cisgender
 17,male,cisgender
 21,mostly_male,cisgender
@@ -2992,7 +2813,6 @@ Age,Gender Identity,Gender Alignment
 23,mostly_male,cisgender
 20,male,cisgender
 18,female,cisgender
-,male,cisgender
 22,male,cisgender
 22,male,cisgender
 30,male,cisgender
@@ -3000,7 +2820,6 @@ Age,Gender Identity,Gender Alignment
 29,male,cisgender
 24,mostly_male,cisgender
 14,male,cisgender
-,,
 19,mostly_male,transgender
 16,male,cisgender
 16,male,cisgender
@@ -3009,14 +2828,12 @@ Age,Gender Identity,Gender Alignment
 14,male,cisgender
 33,male,complicated
 19,male,cisgender
-,male,cisgender
 28,male,cisgender
 18,male,cisgender
 21,male,cisgender
 16,male,cisgender
 16,male,cisgender
 13,female,cisgender
-,,
 17,male,cisgender
 22,nonbinary_nos,complicated
 25,genderqueer,complicated
@@ -3066,7 +2883,6 @@ Age,Gender Identity,Gender Alignment
 17,male,cisgender
 24,male,cisgender
 31,mostly_male,cisgender
-16,male,
 23,mostly_female,cisgender
 17,male,cisgender
 17,male,cisgender
@@ -3099,7 +2915,6 @@ Age,Gender Identity,Gender Alignment
 26,male,cisgender
 23,male,cisgender
 26,mostly_female,transgender
-20,,transgender
 36,male,cisgender
 27,male,cisgender
 19,male,cisgender
@@ -3117,10 +2932,8 @@ Age,Gender Identity,Gender Alignment
 44,female,cisgender
 15,male,cisgender
 25,male,cisgender
-14,mostly_female,
 24,male,cisgender
 18,female,cisgender
-,genderqueer,transgender
 26,neutrois,cisgender
 17,mostly_male,complicated
 0,male,cisgender
@@ -3146,7 +2959,6 @@ Age,Gender Identity,Gender Alignment
 33,male,cisgender
 19,male,cisgender
 13,mostly_female,cisgender
-21,male,
 21,male,cisgender
 20,male,cisgender
 23,neutrois,complicated
@@ -3164,7 +2976,6 @@ Age,Gender Identity,Gender Alignment
 19,male,cisgender
 15,male,cisgender
 15,male,cisgender
-,,
 17,male,cisgender
 21,male,cisgender
 34,male,cisgender
@@ -3195,8 +3006,6 @@ Age,Gender Identity,Gender Alignment
 18,female,cisgender
 22,male,transgender
 19,female,transgender
-18,male,
-,,
 17,mostly_male,transgender
 17,female,cisgender
 16,genderqueer,complicated
@@ -3214,10 +3023,8 @@ Age,Gender Identity,Gender Alignment
 19,male,cisgender
 18,male,cisgender
 24,male,cisgender
-,female,cisgender
 0,female,cisgender
 15,male,cisgender
-99,,cisgender
 13,male,cisgender
 13,male,cisgender
 16,male,cisgender
@@ -3248,20 +3055,16 @@ Age,Gender Identity,Gender Alignment
 17,male,cisgender
 18,male,cisgender
 20,male,cisgender
-,male,cisgender
 18,genderqueer,transgender
 21,male,cisgender
 14,female,cisgender
-,,complicated
 21,female,cisgender
-18,mostly_male,
 35,male,cisgender
 25,female,cisgender
 14,female,cisgender
 29,male,cisgender
 33,mostly_female,transgender
 23,male,cisgender
-44,,cisgender
 17,male,cisgender
 24,male,cisgender
 30,genderqueer,complicated
@@ -3283,7 +3086,6 @@ Age,Gender Identity,Gender Alignment
 20,mostly_female,cisgender
 19,male,cisgender
 16,male,transgender
-,,
 23,both,complicated
 22,male,cisgender
 13,male,cisgender
@@ -3295,7 +3097,6 @@ Age,Gender Identity,Gender Alignment
 19,male,cisgender
 23,male,transgender
 48,male,cisgender
-,,
 28,mostly_male,cisgender
 22,female,cisgender
 29,mostly_male,complicated
@@ -3303,9 +3104,7 @@ Age,Gender Identity,Gender Alignment
 15,male,complicated
 16,male,cisgender
 25,male,cisgender
-,,
 17,male,cisgender
-17,,cisgender
 28,female,cisgender
 26,male,cisgender
 16,male,cisgender
@@ -3335,7 +3134,6 @@ Age,Gender Identity,Gender Alignment
 34,male,cisgender
 23,mostly_female,cisgender
 21,female,cisgender
-17,male,
 21,female,cisgender
 15,mostly_female,transgender
 21,male,cisgender
@@ -3348,10 +3146,8 @@ Age,Gender Identity,Gender Alignment
 18,male,cisgender
 20,male,cisgender
 18,male,cisgender
-23,male,
 33,female,cisgender
 20,male,cisgender
-,,
 20,male,cisgender
 16,male,cisgender
 22,male,cisgender
@@ -3384,12 +3180,10 @@ Age,Gender Identity,Gender Alignment
 22,neutrois,transgender
 27,female,transgender
 16,male,cisgender
-,,
 21,male,cisgender
 28,mostly_female,complicated
 17,genderqueer,transgender
 17,male,cisgender
-79,,cisgender
 15,male,cisgender
 20,male,cisgender
 19,male,cisgender
