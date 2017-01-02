@@ -1,4 +1,7 @@
+import csv
 import psycopg2
+import sys
+from meta import FIELDNAMES
 import logging
 
 class Results2013():
@@ -163,7 +166,7 @@ class Results2013():
             }[result[1]]
         except:
             return None
-    
+
     def getCountry(self, surveyResponse):
         try:
             return filter(
@@ -371,7 +374,7 @@ class Results2013():
             'write': 41,
             'draw': 42,
             'play_nonfurry_online_games': 44,
-            'play_nonfurry_rpgs': 45, 
+            'play_nonfurry_rpgs': 45,
             'attend_nonfurry_conventions': 46,
             'participate_in_nonfurry_online_communities': 47,
         }
@@ -543,3 +546,13 @@ class Results2013():
 def buildResults():
     results = Results2013()
     return results.getResults()
+
+if __name__ == '__main__':
+    logging.basicConfig(
+    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
+    level=logging.INFO)
+    outfile = sys.argv[1]
+    with open(outfile, 'w') as csvfile:
+        writer = csv.DictWriter(csvfile, fieldnames=FIELDNAMES)
+        for row in buildResults():
+            writer.writerow(row)

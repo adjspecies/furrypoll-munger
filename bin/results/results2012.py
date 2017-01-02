@@ -1,4 +1,7 @@
+import csv
 import MySQLdb
+import sys
+from meta import FIELDNAMES
 
 from MySQLResults import Results
 
@@ -217,3 +220,10 @@ class Results2012(Results):
 def buildResults():
     results = Results2012(year=2012)
     return results.getResults()
+
+if __name__ == '__main__':
+    outfile = sys.argv[1]
+    with open(outfile, 'w') as csvfile:
+        writer = csv.DictWriter(csvfile, fieldnames=FIELDNAMES)
+        for row in buildResults():
+            writer.writerow(row)

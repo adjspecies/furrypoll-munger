@@ -1,6 +1,9 @@
-from etc.furrypoll2015 import models
-
+import sys
+import csv
+from meta import FIELDNAMES
 import logging
+from etc.furrypoll2015 import furrypoll
+
 
 class Results2015():
     def __init__(self):
@@ -8,7 +11,7 @@ class Results2015():
 
     def buildResults(self):
         self.logger.info('Beginning 2015')
-        responses = models.Response.objects
+        responses = furrypoll.models.Response.objects
         n = 0
 
         while True:
@@ -378,3 +381,13 @@ class Results2015():
 def buildResults():
     result = Results2015()
     return result.buildResults()
+
+if __name__ == '__main__':
+    logging.basicConfig(
+        format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
+        level=logging.DEBUG)
+    outfile = sys.argv[1]
+    with open(outfile, 'w') as csvfile:
+        writer = csv.DictWriter(csvfile, fieldnames=FIELDNAMES)
+        for row in buildResults():
+            writer.writerow(row)

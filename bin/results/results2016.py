@@ -1,4 +1,7 @@
-from etc.furrypoll2016 import models
+from etc.furrypoll2016 import furrypoll
+import csv
+import sys
+from meta import FIELDNAMES
 
 import logging
 
@@ -8,7 +11,7 @@ class Results2016():
 
     def buildResults(self):
         self.logger.info('Beginning 2016')
-        responses = models.Response.objects
+        responses = furrypoll.models.Response.objects
         n = 0
 
         while True:
@@ -32,6 +35,8 @@ class Results2016():
                 'birthdate': self.getBirthDate(response),
                 'biosex': self.getBiosex(response),
                 'gender': self.getGender(response),
+                'gender_alignment': self.getObjectiveResponse(
+                    response.overview.gender_alignment),
                 'orientation': self.getOrientation(response),
                 'country': response.overview.country,
                 'state': response.overview.state,
@@ -376,5 +381,15 @@ class Results2016():
                 result['importance_' + keys[answer.option]] = answer.value
 
 def buildResults():
-    result = Results2015()
+    result = Results2016()
     return result.buildResults()
+
+if __name__ == '__main__':
+    logging.basicConfig(
+        format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
+        level=logging.DEBUG)
+    outfile = sys.argv[1]
+    with open(outfile, 'w') as csvfile:
+        writer = csv.DictWriter(csvfile, fieldnames=FIELDNAMES)
+        for row in buildResults():
+            writer.writerow(row)
