@@ -1,0 +1,3241 @@
+Species,Sexual dominance,Romantic dominance,Social dominance
+arcticfox; anthro,-1,0,0
+germanshepherd; husky,-2,-2,-2
+domesticcat,-1,-1,1
+greyfox,-2,-1,-1
+riverotter,0,0,0
+othermustelid; other,0,0,0
+otherdog,-1,-1,-1
+rabbit; anthro,0,1,1
+coyote; riverotter,-2,-1,-2
+panther; anthro; other,0,1,1
+domesticcat; anthro,-1,0,0
+wolf,0,0,0
+otherungulate,-1,1,0
+rabbit; anthro,-2,-1,1
+wolf; husky,1,1,0
+domesticcat,0,2,-2
+othermustelid,1,1,0
+husky,0,-1,-1
+otherfox,0,0,0
+kitsune,,-2,1
+cheetah,-1,1,0
+riverotter; anthro,0,0,1
+raccoon,,,-1
+deer,0,-1,-2
+redfox,-1,0,1
+redfox,-1,-1,-2
+otherdog,-1,-1,-1
+wolf,2,0,-1
+collie; anthro,0,1,0
+other,0,1,-1
+wolf; coyote; anthro; feral,-2,-1,1
+domesticcat; anthro,-2,-1,-1
+redfox,1,1,0
+collie,0,0,0
+riverotter,0,-1,-2
+dragon,2,1,0
+husky,0,1,2
+kitsune; anthro,-1,-1,-1
+feral,-1,0,-1
+mouse,0,0,2
+raccoon,-2,-1,1
+rat,-2,-2,-2
+othermarsupial; other,-2,-2,-2
+dragon,-1,-2,0
+arcticfox; anthro,0,1,1
+rabbit,-1,1,1
+wolf,0,-2,-2
+collie,0,0,0
+cheetah,0,1,1
+redfox,0,0,0
+deer; otherbird; feral,0,-1,0
+otherungulate,-1,-1,-1
+other,0,1,1
+kangaroo,0,-1,-1
+anthro; other,-1,-1,-1
+wolf,0,0,0
+redpanda; anthro,-2,0,-1
+otherdog; anthro; other,-1,1,2
+lion,-1,1,1
+domesticcat,0,0,-1
+otherdog,0,0,0
+redfox; panther; anthro; polymorphic,-1,-1,1
+otherfox; anthro,-1,-1,0
+tiger,2,2,2
+husky,-1,0,-2
+otherdog,0,1,0
+lizard; anthro,0,0,0
+otherfox,0,0,1
+rabbit,2,-1,-1
+fennec,-2,-2,-2
+griffin,-2,0,2
+polarbear,0,0,1
+wolf,-1,0,1
+wolf; anthro,0,-1,-2
+other,-2,-2,-2
+bat,-1,0,0
+othermarsupial; anthro; feral,1,0,-1
+wolf; otherdog; anthro,-2,-1,-2
+wolf; snowleopard,-2,1,0
+domesticcat,0,0,1
+other,-1,1,0
+otherfeline,0,0,-1
+redpanda; rabbit; anthro,2,1,-2
+otherbear,0,0,2
+wolf; anthro,0,0,0
+riverotter,0,0,-1
+raptor,-2,0,0
+otherreptile,-1,0,0
+othermusteloid; bat; anthro; other,-1,-1,-1
+redfox,-2,0,1
+snowleopard; anthro,-1,1,0
+dragon; anthro,1,0,0
+skunk,0,0,0
+dragon; anthro,0,1,-1
+riverotter,-1,0,-1
+wolf,-2,-2,-2
+coyote,0,0,-1
+domesticcat,-2,-2,-2
+domesticcat,-1,-1,1
+wolf,-1,-1,-1
+rabbit,-1,-1,-1
+wolf,1,0,-1
+raccoon,-1,1,0
+polarbear; feral; other,-2,1,1
+horse,0,0,1
+otherfeline,-1,-1,-1
+lion,0,0,0
+anthro; other,1,0,0
+tiger; dragon; anthro,0,0,-1
+other,-1,1,-2
+dragon; anthro,-1,-1,1
+wolf,1,0,-1
+wolf,0,0,0
+wolf,-1,-1,-1
+redpanda,0,-1,-2
+raccoon,-1,-1,-1
+otherdog,0,-1,1
+leopard; dragon,-2,0,-1
+deer,0,0,1
+rabbit,-2,0,1
+coyote; anthro; feral,-1,-1,-1
+other,0,1,0
+riverotter,-1,1,-2
+raccoon,-1,-1,-1
+othermarsupial; feral; polymorphic,2,0,-1
+fennec,1,1,0
+kitsune,-1,1,1
+wolf,1,2,1
+kitsune,,,0
+other,-1,0,-2
+otherfox,1,1,-1
+raven,-1,-1,1
+othercanine; raccoon; other,-1,0,0
+snowleopard; domesticcat,-1,0,-1
+raven,1,1,1
+wolf; otherdog,0,0,0
+arcticfox,1,-1,0
+husky,-2,-2,-2
+husky,0,-1,1
+wolf,1,0,2
+otherfox; domesticcat,2,2,1
+otherfeline; feral,0,0,0
+wolf; husky; anthro,0,-1,-1
+panther,0,0,1
+wolf; anthro,0,-1,-2
+germanshepherd,-2,-1,-2
+wolf; otherfox,0,0,0
+domesticcat; anthro,0,1,0
+wolf,1,1,-1
+lion,-1,-2,0
+husky; anthro,-2,-2,-1
+collie,-2,-2,-2
+coyote,-1,0,-1
+otherdog,-1,1,1
+germanshepherd,-2,-2,0
+wolf; redfox; greyfox; husky,1,0,0
+husky,0,0,0
+othercanine,1,1,1
+germanshepherd,-1,1,1
+wolf; snowleopard,1,-1,-2
+dragon; grizzlybear,0,0,0
+wolf; anthro; feral; polymorphic; other,-2,-2,1
+wolf; dragon,1,0,0
+dragon; anthro; feral,1,0,0
+othercanine; other,0,-1,0
+arcticfox; collie; otherungulate; bat; anthro,-2,1,2
+otherfox,0,0,-1
+otherfox,0,1,2
+bat,1,-1,0
+brownbear; grizzlybear; otherbear,-2,-2,-2
+riverotter; anthro,-1,1,-2
+otherdog; anthro,-2,-1,0
+otherbear,-1,0,1
+redfox; deer,0,1,1
+domesticcat,1,1,1
+tiger,-1,-1,1
+other,-1,1,0
+arcticfox; fennec; husky; otherdog; lion; riverotter; seaotter; redpanda; deer; pandabear; anthro; feral,-2,1,0
+otherdog; polarbear,-2,-1,1
+redfox,-1,0,0
+wolf,-1,0,1
+otherfox,0,-1,-1
+,-1,0,-1
+otherungulate,1,-1,-2
+wolf,-1,-1,-1
+wolf,-2,0,0
+kitsune; otherfox,-1,0,1
+seaotter; anthro; feral,-2,-1,0
+husky,1,1,1
+otherreptile; anthro,-1,0,-1
+raccoon; polymorphic,-1,1,-2
+redfox; otherfox,2,1,0
+badger,0,0,0
+wolf; other,-2,0,-1
+tiger; lion; domesticcat,0,-1,1
+redpanda,,,0
+domesticcat; dragon,-1,-2,-1
+husky,-1,0,0
+kitsune,-2,-2,0
+grizzlybear,-1,1,0
+dragon,-2,-1,-1
+wolf; redfox; anthro,-1,1,0
+panther; domesticcat; otherfeline; grizzlybear; bat,0,0,0
+polarbear,-1,-2,-1
+domesticcat,0,0,1
+dragon; anthro; feral,-2,-2,0
+wolf,2,2,1
+wolf,0,0,0
+other,0,0,0
+jackal,-1,-2,-1
+wolf; tiger; otherungulate; otherbird; anthro; other,-2,-1,1
+wolf,-2,-1,1
+snowleopard,-1,1,0
+collie,0,1,1
+squirrel,0,-1,1
+fennec; domesticcat; dragon; anthro; feral,-2,-2,-1
+weasel,0,0,0
+redfox,-2,1,-1
+other,0,0,0
+wolf; germanshepherd,0,,
+otherdog,-1,0,0
+husky,0,0,0
+lion,0,0,-1
+,0,0,-2
+horse; taur; anthro; polymorphic,,,-2
+dragon,-1,-2,-2
+othermusteloid; anthro; other,-1,0,0
+deer,1,2,0
+otherfox; anthro,0,1,2
+lion; anthro; feral,-2,-1,0
+wolf; redfox,-2,0,0
+wolf,0,-1,1
+domesticcat; polymorphic,0,0,0
+dragon,0,0,0
+jackal; anthro,,,1
+coyote,0,-1,0
+wolf,0,-1,-1
+wolf,-1,-1,-1
+wolf; otherfox,-2,-2,-2
+panther; anthro; feral; other,,1,1
+wolf,-1,-1,0
+greyfox,0,2,1
+domesticcat,-2,-2,-2
+riverotter,-2,-2,-2
+othermustelid,0,0,0
+feral; other,-2,0,1
+wolf,-2,-2,-2
+wolf; coyote; germanshepherd; husky; collie; otherdog; othercanine; rat; squirrel; other; raven,1,0,1
+arcticfox,-2,-1,0
+othercanine; othermustelid; hyaena; anthro; feral; other,-1,-1,-2
+dragon,-1,0,-1
+otherdog; anthro; other,-2,-1,-2
+raccoon,,0,0
+rabbit,-2,-1,0
+snowleopard; feral,,,-2
+leopard; anthro; feral,0,0,-1
+redfox; arcticfox,-1,0,1
+redfox,0,1,-1
+horse,-1,0,1
+fennec,2,1,0
+redfox,0,-1,0
+wolf; husky,-1,0,-2
+wolf; redfox; husky; tiger; cheetah; domesticcat; dragon; rat; anthro,0,0,-1
+domesticcat,-1,-1,-1
+husky,0,0,-2
+tiger,-1,-1,1
+dragon; polymorphic,-1,0,2
+wolf; otherungulate; raptor,-2,-1,0
+snowleopard,-1,-2,1
+wolf,-2,1,1
+arcticfox,-1,-1,-1
+wolf; anthro; other,1,0,1
+redfox; otherfox,-2,-2,-2
+hyaena,1,0,0
+redfox; otherfox; otherfeline; anthro,-2,-1,-1
+otherfeline; raven,1,1,0
+redfox,0,-1,-1
+wolf,1,-1,0
+otherfox,-2,-2,-2
+wolf,1,0,0
+leopard,0,0,0
+kangaroo; other,-1,-1,0
+otherdog; anthro,2,2,1
+other,-1,0,-1
+raccoon,2,1,0
+arcticfox,-1,1,0
+wolf,0,0,-2
+domesticcat,1,0,-1
+raccoon; anthro,-1,0,-1
+fennec; other,-2,-1,1
+otherbird,-1,-1,-1
+snowleopard; anthro,-1,1,-1
+wolf; greyfox; other,2,2,1
+redpanda,0,-1,-1
+otherdog; kangaroo; other,1,1,1
+rabbit,-1,0,-1
+other,2,1,0
+wolf,-1,0,-1
+wolf; lion; taur,1,1,1
+squirrel,2,0,0
+wolf; redfox; anthro; other,2,1,2
+raccoon,1,0,-1
+lion; rabbit; other,1,2,1
+other,-2,-1,0
+mouse,-1,0,-2
+coyote; anthro,-2,-2,1
+otherreptile; otherbird; anthro; polymorphic,-1,-1,-2
+otherdog,0,0,-1
+germanshepherd,-1,1,1
+,-1,2,0
+other,-2,-2,-2
+othercanine; otherreptile; horse; otherungulate; other,0,0,0
+wolf; arcticfox,-1,1,2
+wolf; redfox; anthro; feral,0,1,0
+snowleopard; otherfeline,0,-2,2
+germanshepherd; anthro; feral,-1,0,0
+rabbit,-1,,-1
+coyote,0,0,0
+dragon; anthro; other,1,0,0
+wolf; husky; anthro,1,0,1
+wolf,-1,1,1
+wolf,1,-1,0
+wolf; hyaena,0,0,2
+squirrel; anthro,-2,-1,1
+lion,0,1,0
+othercanine; anthro; other,-2,-1,1
+otherfox,0,0,-1
+redfox,-1,-1,0
+rabbit,0,0,0
+skunk,2,0,0
+wolf; husky; anthro,-1,0,0
+lion,0,0,0
+cheetah; anthro; feral,0,0,0
+lion,-2,-2,-2
+redfox; tiger; domesticcat; otherfeline; anthro; feral,-2,0,0
+tiger,-1,1,-1
+otherungulate; anthro,0,0,0
+otherungulate,-2,-1,-1
+polymorphic; other,-2,0,-1
+wolf; redfox; anthro,-2,1,1
+snowleopard,0,0,1
+lion; snowleopard,1,0,1
+lion; anthro,1,0,-1
+redfox; raccoon; other,0,0,-1
+wolf,0,0,0
+snowleopard,1,-1,-1
+raccoon,-1,0,0
+brownbear,-2,0,0
+otherungulate,0,0,0
+domesticcat,-2,-1,-1
+otherfeline,-2,0,-1
+coyote,-1,1,1
+other,2,2,2
+germanshepherd,-1,1,0
+wolf; othercanine; other,1,-1,1
+wolf; hyaena,-1,0,-2
+wolf; domesticcat; anthro,-2,-1,0
+raccoon; hyaena,-1,1,-2
+wolf,-1,1,-2
+wolf,2,2,0
+redfox,-2,-2,-2
+redfox,-2,-1,0
+deer; anthro,-2,-1,-1
+otherfox,-2,-2,-2
+redfox,0,,0
+wolf,-1,1,0
+horse,1,0,0
+otherfeline; anthro; feral,1,1,-1
+wolf; snowleopard,1,1,2
+wolf,1,-1,1
+otherdog,2,2,-1
+domesticcat; anthro,-1,0,1
+tiger; panther,0,0,0
+bat,-1,-1,0
+raccoon,-1,-1,-2
+husky,1,1,0
+domesticcat,-2,-1,-1
+redfox; anthro,1,0,-2
+kitsune; fennec,-2,1,0
+othermustelid,-2,-1,0
+wolf; anthro,-1,1,-2
+wolf; anthro,0,-1,1
+cheetah; other,-1,0,-1
+otherfox; anthro,1,1,0
+arcticfox; kitsune; anthro; polymorphic,-2,-2,0
+othercanine,1,0,0
+dragon,-1,0,-2
+wolf; redfox; kitsune; domesticcat,2,1,0
+redfox; coyote,-1,0,1
+wolf; otherdog; anthro; feral; polymorphic,-1,-2,1
+redfox,-1,0,1
+wolf,-1,0,0
+domesticcat,-1,-1,-2
+dragon; anthro; feral; polymorphic,-2,0,-2
+dragon; anthro,0,0,0
+other,0,1,-2
+rabbit,0,0,-1
+jackal,2,0,0
+otherreptile,0,-1,-1
+otherungulate; rabbit; anthro,-1,-1,-2
+dragon; taur; anthro; feral,0,0,-1
+arcticfox; fennec,1,0,0
+dragon,1,2,-1
+husky; snowleopard,0,0,1
+othermustelid; polymorphic,-1,0,0
+tiger; anthro,0,0,0
+wolf,1,1,2
+otherdog; other,-2,0,2
+husky; otherdog,1,2,1
+dragon,0,0,0
+domesticcat,-1,0,0
+domesticcat,-1,-1,0
+otherfox,2,0,1
+jackal; anthro,-2,-2,0
+otherfox,-1,0,-2
+redpanda; rabbit; anthro,0,-1,-2
+wolf; anthro,1,-1,-1
+hyaena; anthro,-2,-1,0
+leopard,-1,0,1
+kitsune; tiger; anthro,-2,-1,-2
+otherfox; anthro,0,0,0
+otherfox; domesticcat,0,0,1
+otherbird,-1,-1,0
+othermarsupial,0,1,-1
+dragon; feral,-1,0,-1
+wolf,0,1,-1
+wolf; fennec,-2,-1,-1
+othercanine,-2,0,0
+otherreptile,1,0,0
+other,-1,0,-2
+redfox,0,0,-1
+wolf,-2,-1,-2
+kitsune,0,0,-1
+domesticcat,-1,0,0
+redfox,-1,2,2
+rabbit,0,0,1
+lizard; anthro,0,0,-1
+dragon; anthro,-2,0,-2
+tiger; polymorphic,1,0,0
+wolf; deer; anthro,0,-1,1
+otherdog; anthro; feral,-2,-1,-2
+domesticcat,-1,-2,-1
+otherdog; kangaroo,-1,1,1
+wolf; other,0,-1,-1
+riverotter,2,1,1
+otherfeline; anthro,1,0,1
+dinosaur,0,1,1
+wolf; othercanine; anthro; feral; polymorphic,1,-1,0
+wolf; otherfox; anthro; feral; polymorphic,0,0,0
+otherdog; redpanda; anthro; feral,-1,0,-2
+lizard,1,0,-1
+redfox,0,0,-1
+panther; raven; anthro; polymorphic,-1,-1,-1
+germanshepherd; anthro,-2,-2,-1
+anthro,0,-1,-1
+domesticcat,-1,-1,-2
+wolf; otherfox,0,0,0
+wolf; anthro,2,1,-1
+wolf,1,0,1
+wolf,-1,-1,1
+coyote,-1,0,-1
+riverotter,0,1,1
+raccoon,-1,-1,-1
+wolf,0,0,-2
+horse,,,-1
+wolf; anthro,0,0,0
+otherdog; feral,-2,-1,-1
+tiger; anthro; other,2,2,1
+mouse,-1,0,2
+otherdog; anthro; feral,1,0,0
+tiger; bat,0,0,1
+horse; anthro,-1,0,-1
+snowleopard,0,0,-1
+otherfox,1,2,2
+redfox; kitsune; anthro; feral; polymorphic,-2,-1,0
+wolf,-1,0,0
+dragon,1,0,-1
+hyaena,-1,0,0
+wolf; germanshepherd; feral,-1,-1,0
+collie,0,0,1
+wolf; rabbit,-1,0,0
+otherfeline; feral,1,1,0
+arcticfox,-2,0,1
+redfox,1,1,-1
+riverotter,-1,-1,1
+husky; anthro; feral,0,1,-1
+otherfox,0,1,1
+redfox,0,0,-1
+wolf; jackal; anthro,-1,0,1
+husky,-2,-1,0
+wolf; anthro,-1,1,1
+wolf,0,0,0
+domesticcat; anthro,2,2,2
+other,2,0,1
+grizzlybear,2,-2,-1
+otherfeline; anthro; feral,1,1,1
+cougar,-1,-1,-2
+husky,-1,0,-1
+domesticcat,-1,-1,-1
+wolf,-1,0,1
+husky; domesticcat,2,0,-1
+dragon; hyaena,1,-1,-1
+germanshepherd; anthro; feral,1,1,1
+wolf; otherdog; other,-1,1,0
+wolf,1,1,0
+otherfeline,-2,-1,0
+otherdog; anthro,-1,-1,-1
+othermustelid,1,2,2
+collie; anthro,-2,-1,-1
+other,1,1,0
+domesticcat,1,2,-1
+lion,0,1,1
+greyfox,0,0,0
+otherdog; other,-1,0,0
+redfox,-2,-1,0
+wolf,0,-1,0
+snowleopard,-1,-1,1
+rabbit,-1,0,2
+wolf; arcticfox; husky; anthro; feral; polymorphic,-2,0,1
+dragon,-1,-1,-2
+dragon,-2,-1,1
+dragon,1,1,1
+wolf; anthro; polymorphic,-1,0,0
+other,0,1,1
+othercanine,-1,-1,1
+wolf,1,0,1
+othermusteloid,1,0,-1
+other,0,0,1
+lizard,-1,-2,-2
+wolf,1,0,0
+wolf; germanshepherd,0,0,0
+redfox,-2,-2,-2
+wolf; dragon,1,2,-2
+dragon; anthro; feral,0,1,0
+other,0,0,-2
+wolf,2,2,1
+wolf,0,0,0
+dragon; riverotter,2,2,2
+wolf,1,1,0
+wolf,2,0,2
+snowleopard,-2,-1,1
+dinosaur; anthro,1,0,1
+othercanine,-2,-2,2
+dragon; lizard; dinosaur; otherreptile; polymorphic,-2,0,2
+otherfox,0,0,1
+hyaena,0,1,0
+redfox,-1,-1,-1
+wolf; othercanine; anthro; feral; other,1,-1,0
+wolf,1,2,0
+tiger; otherfeline; other; polymorphic; other,-2,0,1
+redfox,-1,0,0
+lion; raptor; griffin; anthro; feral,0,-1,-2
+skunk,1,1,-1
+wolf; otherdog; anthro; feral,-1,1,-2
+fennec,-1,0,0
+other,1,0,-1
+griffin,-1,-1,0
+rat,-2,-1,1
+otherfeline,-1,-1,1
+wolf; otherdog; other,-2,0,1
+othercanine,0,0,0
+other,-1,0,1
+dragon; griffin; anthro; feral; polymorphic,2,0,1
+wolf,1,1,1
+otherdog,-1,0,2
+wolf; germanshepherd; lion; domesticcat,-2,-1,0
+fennec; anthro,-1,-1,-2
+redfox,-2,0,-1
+pandabear,-2,-2,0
+otherdog,0,0,-1
+domesticcat,-1,0,-2
+domesticcat,-1,1,-1
+polarbear; anthro,-2,-2,-2
+dragon,2,2,1
+raccoon,0,-1,-1
+dinosaur; anthro,,-1,-1
+other,-1,-1,-2
+hyaena; feral,-2,-1,1
+other,-1,1,0
+domesticcat,0,0,0
+domesticcat,1,1,1
+cougar,1,1,1
+tiger; otherfeline; anthro,-2,0,0
+other,1,0,0
+domesticcat,1,-1,-1
+lizard,-2,-2,-2
+otherungulate,1,0,-1
+wolf,0,0,0
+wolf; anthro; feral,-1,-1,-1
+husky; otherdog,-1,-1,1
+wolf; redfox,1,0,1
+otherfox; feral; other,1,1,1
+otherbear; anthro,2,1,1
+kitsune; rabbit; anthro; polymorphic; other,-2,-2,-2
+dragon; anthro,-2,-2,0
+otherfox,,,0
+coyote,0,0,0
+dragon; polymorphic; other,1,1,-1
+redfox,-1,,
+bat,1,0,1
+wolf; anthro,2,1,1
+wolf,-1,0,1
+lion; leopard; anthro; feral; other,0,1,-1
+jackal,1,0,-2
+dragon; anthro; feral,-2,-1,1
+wolf; redfox; kitsune,1,1,1
+otherfox; anthro,-2,-2,-2
+domesticcat,-1,0,-2
+hyaena,-1,-1,0
+other,0,0,0
+dinosaur; anthro,0,0,1
+wolf,-2,-1,-1
+other,0,0,0
+rabbit,0,0,0
+otherungulate; anthro,1,2,0
+redfox,1,1,0
+raccoon,1,0,0
+snowleopard,-1,0,1
+redfox; greyfox; arcticfox,-1,-1,2
+snowleopard; otherfeline,-2,-1,0
+wolf,0,0,0
+rabbit,0,0,0
+anthro; other,-2,0,2
+snowleopard,1,0,1
+other,-1,0,-1
+redfox,-2,0,1
+otherfox,-1,0,-2
+anthro; polymorphic; other,1,0,-1
+tiger,-1,0,-2
+raptor; anthro; other,2,1,0
+redfox,-1,-2,-2
+greyfox; anthro,0,-1,1
+wolf,-1,0,0
+otherdog; anthro; other,2,-1,-1
+rat,-2,0,0
+other,0,0,-1
+dragon; anthro; feral,1,-1,0
+horse,1,0,-1
+deer,1,1,0
+tiger,1,0,-1
+redfox,1,1,-1
+rabbit,-2,1,2
+dragon,1,-1,0
+tiger,0,1,1
+othercanine; panther; otherfeline; raven; raptor; griffin; taur; anthro; feral; polymorphic; other,-1,-1,0
+wolf; otherfox; dragon; anthro; feral,0,1,1
+polarbear,-1,-1,0
+otherbear,2,2,0
+wolf,0,1,-1
+redpanda,-1,1,1
+otherbear,-1,-1,0
+kitsune; deer; anthro; polymorphic,0,-1,0
+wolf; grizzlybear; anthro,-1,1,0
+other,1,2,1
+otherfox; anthro,0,1,-1
+hyaena,0,0,1
+redfox; deer; anthro,0,1,1
+tiger; anthro,0,0,0
+dragon,1,0,-1
+domesticcat,1,0,0
+otherfeline; dragon; feral,1,0,-1
+dragon; anthro,0,0,0
+tiger; anthro,2,1,1
+husky; anthro,0,1,2
+otherfeline; anthro; feral; polymorphic; other,0,0,-2
+kitsune,0,1,-1
+wolf; arcticfox,0,0,0
+dragon; anthro,0,-1,-1
+snowleopard,-1,-1,0
+raptor,1,0,0
+weasel,-2,-2,-1
+horse,0,1,1
+fennec; anthro,-1,0,0
+lion; anthro,-1,0,2
+otherungulate; raven; anthro,-1,1,0
+greyfox; otherreptile,0,-1,0
+wolf; anthro,2,2,2
+dragon,-1,-1,-1
+domesticcat,0,-2,-2
+other,0,1,2
+tiger,-2,0,-2
+otherdog,0,0,0
+polarbear,-1,1,2
+,1,0,-1
+redfox,-1,-1,0
+panther; anthro,-2,1,0
+wolf; otherdog,0,0,-2
+othercanine; dragon,-2,-2,-2
+redpanda; anthro; feral,-1,-1,0
+redfox; anthro,0,0,0
+arcticfox,0,0,0
+wolf; raptor; anthro; feral; polymorphic,0,0,0
+germanshepherd; anthro,0,0,0
+,-2,0,1
+lion,1,1,0
+anthro; other,-1,0,0
+wolf,0,1,2
+dragon,-1,-1,-2
+otherfeline,-2,-2,0
+wolf,-2,-2,-2
+rabbit,0,0,0
+wolf; redfox; greyfox; coyote; jackal; otherdog; othercanine; other,1,0,0
+otherfox,1,0,1
+dragon; raptor; anthro,0,0,-1
+other,0,0,1
+redfox,0,0,1
+otherreptile; other,0,0,1
+othercanine,1,-1,-1
+lizard; anthro,-1,0,1
+other,0,0,0
+wolf,0,0,0
+skunk,-2,-2,-2
+panther,2,1,1
+skunk; anthro,1,0,0
+wolf,1,-2,-2
+rat,-2,-1,-1
+kitsune; skunk,0,1,-1
+wolf; anthro,-1,-1,0
+redpanda,0,0,-1
+lion,1,-1,2
+redfox,1,0,-1
+otherbear; anthro; feral,0,0,1
+otherfox,-1,0,1
+lion; anthro,0,0,1
+wolf; arcticfox; kitsune; panther; anthro; feral; polymorphic; other,-1,1,-1
+other,1,2,0
+husky,-2,1,0
+redfox,2,1,1
+seaotter; anthro,,0,1
+tiger; lion; leopard,0,0,0
+wolf; otherdog,0,0,-1
+dragon; taur; anthro; feral; polymorphic,2,2,2
+deer; anthro,0,0,0
+skunk,-1,2,0
+raven; otherbird; griffin,1,-1,-1
+otherbear,1,0,0
+wolf,-1,-1,-1
+wolf; anthro,0,0,1
+anthro; other,1,1,0
+othermustelid,1,0,1
+jackal,2,-2,2
+redfox; raccoon,1,1,1
+other,-2,-2,0
+otherfox; other,1,0,1
+domesticcat; riverotter,1,1,
+redfox; anthro,-2,-1,1
+wolf; redfox,1,0,1
+tiger; anthro,0,0,0
+dragon; lizard; anthro,0,0,1
+otherfox; husky,0,0,0
+redfox,-1,0,-2
+wolf; other,-1,-1,1
+wolf,0,0,0
+otherfeline,-2,0,-1
+coyote,-1,0,1
+wolf,1,2,1
+redfox,-1,-1,-1
+lizard,1,0,1
+kitsune; dragon,1,1,0
+husky; domesticcat,-1,1,-2
+otherfeline; anthro,-1,1,0
+otherdog; anthro; feral,-1,-1,-1
+otherreptile; otherbird; feral,1,2,-1
+snowleopard,-2,-2,-2
+otherdog,-1,0,-2
+rabbit,-1,0,1
+kitsune; cheetah; anthro,-1,-2,0
+anthro; other,-1,0,1
+otherbear,-1,0,0
+redfox,1,0,-1
+wolf,0,-1,-2
+redfox; anthro; other,-2,-2,-2
+kitsune,-1,-1,0
+wolf,-2,,0
+otherdog,-1,0,-1
+othercanine; anthro,-2,-1,0
+wolf; anthro; feral,-2,-1,1
+lion,-2,-1,-2
+wolf; otherdog,-1,-1,0
+bat,-1,0,-1
+tiger; anthro,1,1,0
+germanshepherd; anthro,0,-1,-1
+lion; otherfeline; anthro,-1,-1,-1
+wolf,1,0,-1
+hyaena,-1,0,-2
+greyfox,-1,1,0
+squirrel,0,0,0
+wolf,2,2,1
+otherfox,0,1,-1
+redfox; rabbit,-1,0,0
+weasel,-2,-1,-1
+otherfeline,-2,-1,-1
+other,0,0,0
+wolf; otherdog; othercanine,0,1,0
+domesticcat; otherfeline,-2,0,-1
+fennec; anthro; other,-2,1,2
+dragon; other,-1,0,1
+,1,0,0
+wolf; anthro; feral,1,0,0
+wolf,-1,0,-1
+redpanda,2,1,0
+other,-1,-1,-1
+redfox,-1,-1,1
+husky; otherdog,0,0,1
+redfox,0,0,-1
+raccoon,-1,-1,1
+wolf; husky,1,1,0
+redfox,2,-2,0
+othercanine,1,-1,1
+otherfox,0,-2,-2
+wolf; otherungulate; anthro,0,0,-1
+redfox,-1,0,0
+otherdog; anthro,-1,-1,1
+hyaena,-2,0,1
+otherfeline,0,0,-1
+domesticcat; raven; anthro,-1,0,0
+kitsune; otherfox; anthro; feral,-1,-1,-1
+wolf; otherfox; otherdog; othercanine; anthro; feral; polymorphic,-2,0,0
+raccoon,-1,-1,-2
+dragon,-2,0,1
+arcticfox,1,1,0
+bat; anthro; feral,-2,-1,0
+redfox; kitsune,0,0,1
+otherdog,-2,0,-1
+domesticcat; anthro,-1,0,0
+feral; other,,,0
+wolf; anthro; other,-1,1,0
+husky; anthro,1,0,-1
+otherfeline,-1,-2,0
+othermustelid; anthro,0,-1,-1
+otherbird; griffin; polymorphic; other,-1,0,-2
+domesticcat,-2,-2,-2
+jackal,-1,0,0
+other,-1,-1,1
+redfox; anthro; feral,0,0,0
+otherreptile; anthro; other,-2,-1,-1
+husky,-1,0,1
+other,0,1,1
+domesticcat; anthro,0,0,0
+wolf; other,1,2,2
+otherfox,1,1,0
+otherdog; othercanine; dragon,0,0,-1
+redfox; anthro,-1,0,0
+lion; other; anthro,0,1,0
+otherungulate,0,-2,-2
+wolf; anthro,1,0,0
+otherfox,0,0,0
+otherfox,0,0,0
+wolf,-2,-1,1
+redfox,-1,0,1
+wolf; fennec,-2,-2,0
+lion; otherbird; griffin; anthro,1,1,0
+redpanda,1,0,
+wolf,0,-1,-2
+snowleopard,0,0,-1
+fennec,-1,-2,-1
+otherfeline; anthro,0,0,0
+redfox,-1,0,0
+other,-1,0,0
+other,1,1,-1
+griffin,-1,-1,-1
+otherfox,0,0,1
+wolf; anthro,1,0,-1
+griffin,-1,-1,-1
+arcticfox; other,-1,0,1
+cougar,-1,0,-1
+other,,,-1
+other,-2,-1,-2
+panther; feral,0,0,-1
+deer,0,-1,0
+othercanine; otherfeline,-1,-1,0
+bat; other,-2,-1,1
+redfox,-1,0,-1
+other,0,0,0
+mouse,-1,0,-1
+snowleopard; raven; feral,-2,1,2
+rabbit,-2,1,0
+pandabear,0,-1,-2
+lizard,-1,0,-1
+otherfox,-2,0,0
+rat; anthro; other,1,1,-1
+jackal; anthro,-2,0,1
+otherfox,-1,0,1
+other,1,1,0
+grizzlybear; anthro; feral,0,0,0
+cheetah,0,0,-1
+,-1,-1,1
+otherfeline; deer,-1,0,0
+lizard; anthro,-1,0,-1
+wolf; feral,-1,0,-1
+otherdog,0,-1,0
+domesticcat,0,0,0
+fennec,1,0,-2
+cheetah,0,1,2
+snowleopard,-1,-1,1
+otherbird; anthro,1,-1,-1
+wolf,-2,-1,-1
+redfox,1,-1,-1
+wolf,-1,-1,0
+coyote,0,0,2
+feral; other,-1,-1,-1
+coyote; anthro,-1,1,0
+tiger,1,2,0
+bat; anthro,-2,1,-1
+husky,-1,-1,-1
+other,0,0,1
+redfox,-2,-1,-2
+wolf,-1,0,1
+domesticcat; anthro,-2,-1,1
+wolf; arcticfox; anthro,-1,0,1
+otherdog,-1,-1,0
+riverotter,-1,0,0
+fennec,0,-1,0
+otherfeline; anthro,1,0,0
+dragon; anthro,2,0,1
+deer; anthro,-1,0,1
+redfox,-1,-2,-2
+otherungulate; other,-1,1,0
+tiger,-1,-1,1
+otherdog,0,1,1
+otherdog; anthro; feral,-2,0,1
+redfox; weasel,0,0,0
+hyaena; anthro; other,-2,0,0
+tiger,-1,1,0
+arcticfox,-2,-1,0
+tiger,0,0,0
+otherfox; otherbird; anthro,-1,0,-2
+grizzlybear,0,0,0
+wolf; snowleopard,-2,-1,0
+domesticcat,-1,0,-2
+otherbird; other,-1,1,0
+otherreptile,-1,0,-1
+tiger,0,0,1
+kitsune,-1,0,1
+other,0,0,1
+othercanine,1,0,-1
+deer,1,0,1
+cougar; anthro,-1,-1,1
+,-1,1,2
+othercanine; anthro,-2,0,1
+grizzlybear,-1,-1,-2
+domesticcat,-1,-1,-1
+wolf; raven; anthro,-1,0,1
+kitsune; anthro,1,-1,-1
+kitsune,-1,-1,-2
+lizard; anthro,-1,0,0
+otherfeline; dragon; lizard; raptor; otherbird; feral,-1,-1,-1
+dragon; anthro,-2,0,1
+otherfeline,-1,0,0
+dinosaur; anthro,1,0,0
+tiger; snowleopard,0,0,-1
+horse; raven,0,1,-1
+dragon,-2,0,1
+wolf; feral,0,0,0
+brownbear,1,0,1
+otherbird; polymorphic; other,-1,1,1
+squirrel; griffin; anthro,0,0,1
+domesticcat,-2,0,-2
+dinosaur; anthro,0,-1,1
+raven,1,0,1
+dragon,-1,1,0
+otherungulate,-2,-1,-1
+deer,-2,-1,-2
+dragon; anthro,1,-1,1
+otherfox; otherbird,1,1,2
+raccoon,-1,0,0
+rabbit,,,0
+otherfeline; anthro; feral,0,0,1
+wolf; other,-1,-1,1
+snowleopard,2,1,-1
+tiger; dragon,1,1,-1
+otherdog,-1,-1,-1
+other,-1,0,-1
+redfox,0,0,-1
+wolf; anthro,-1,0,0
+otherbear,-2,1,2
+rabbit; anthro,-1,0,1
+domesticcat,-2,-2,-2
+dragon; other,-2,0,1
+polarbear,-2,1,-1
+raccoon,-1,-2,-1
+brownbear,0,0,0
+dragon,-1,0,-1
+other,-1,-1,1
+otherdog; anthro; feral,1,0,0
+domesticcat,1,0,1
+rabbit; anthro,-2,-1,0
+other,-1,0,0
+brownbear,-1,-1,1
+redfox; otherfox,0,-1,1
+otherfeline,0,0,-2
+lizard; anthro,-1,0,0
+raccoon,-1,-1,-1
+redfox,-1,-1,-1
+other,0,-1,1
+anthro; feral; other,-2,-1,-1
+wolf; husky; othercanine,-1,1,2
+domesticcat; anthro,-2,-1,0
+redpanda,-1,-2,-1
+wolf; anthro,2,1,2
+redfox,-1,1,1
+othermustelid,,,-1
+horse,0,0,0
+griffin,-1,1,-1
+deer,-1,-1,0
+seaotter; anthro,-1,0,1
+wolf; anthro; feral,-1,-1,0
+othercanine; anthro; other,-1,0,1
+rabbit,1,0,-2
+horse,-1,-1,-1
+snowleopard,0,-1,-1
+rabbit; anthro,-1,0,-1
+deer; rabbit; anthro,-2,-1,-1
+redpanda; anthro,-1,-2,-1
+redfox; anthro,-1,0,-2
+arcticfox,-2,1,1
+redfox; anthro,-1,-1,-1
+mouse,-1,-1,0
+othercanine; anthro,0,0,0
+redpanda; pandabear,-1,0,1
+snowleopard; anthro,-2,0,-1
+otherdog,-2,-1,-1
+dragon; anthro,-1,2,1
+wolf; raccoon,0,-1,-1
+othercanine; otherfeline,0,0,-2
+other,-1,-1,-1
+other,-1,1,2
+dragon; anthro,,,-1
+otherfeline; othermarsupial; anthro; polymorphic,-2,-1,1
+wolf,0,0,0
+dragon; anthro,1,0,1
+redpanda,-2,-2,0
+redfox,0,0,1
+wolf; redfox,0,1,0
+wolf; otherfeline,-1,1,1
+other,-2,-2,-2
+wolf; rabbit,-2,0,1
+dragon; feral,0,-1,0
+otherfeline,-1,1,0
+otherfeline,-1,-1,0
+dragon,2,1,0
+horse; other,-1,0,0
+redfox,1,0,0
+otherfox,0,0,0
+hyaena; anthro,1,1,1
+othercanine; anthro,-1,1,-2
+raccoon; anthro,-1,-1,0
+other,-2,0,0
+arcticfox; kitsune; taur,-1,1,0
+deer; other,-1,0,-2
+jackal,0,0,1
+domesticcat; deer,0,0,1
+dragon; anthro,-2,-1,-1
+redfox; domesticcat,0,0,1
+snowleopard; cheetah; anthro; feral,-2,-1,-1
+redfox,-2,-2,-1
+wolf; tiger; anthro,0,-1,-2
+wolf,-1,-1,-2
+domesticcat,0,1,2
+cheetah; anthro,1,0,0
+kangaroo,-1,-1,-1
+badger; anthro; feral; polymorphic,0,0,0
+wolf; husky; othercanine; other,0,1,-1
+raptor,0,0,2
+otherfox,-1,0,0
+otherfeline; anthro,-2,-1,-1
+wolf; anthro,2,2,0
+lizard,2,0,1
+other,0,-2,-1
+dragon; otherbird; anthro,1,0,-1
+redfox; kitsune; anthro,1,0,0
+hyaena,-1,-1,-2
+squirrel,0,-1,2
+dragon,-1,-2,0
+fennec,-1,0,-1
+husky; dragon,2,1,0
+anthro; other,-1,0,1
+redfox,0,0,-1
+redfox,-2,-1,0
+raptor,1,-1,0
+arcticfox; anthro; feral; polymorphic,-1,-2,-1
+redfox,2,1,0
+lion,-1,-1,0
+germanshepherd; husky,0,0,-1
+othermustelid,0,0,-1
+othermustelid,-1,-1,-1
+squirrel; anthro; feral,-1,1,1
+deer,0,-1,0
+rabbit,-1,0,-1
+redfox; anthro,-1,-1,0
+dragon; lizard; otherreptile; feral; other,1,0,-1
+badger,1,0,0
+lizard,-1,0,1
+wolf,0,-2,-1
+lizard; anthro,0,0,-1
+grizzlybear,0,1,1
+wolf; dinosaur; raccoon; raven; hyaena; bat; griffin; anthro; feral; other,0,0,0
+deer,-1,1,1
+coyote,0,0,0
+other,0,1,0
+arcticfox,-1,0,-2
+othercanine,0,0,1
+husky,0,1,2
+otherfeline; anthro; feral,1,2,-1
+lion,2,2,1
+other,0,0,1
+coyote,0,1,-1
+anthro; other,0,-1,0
+wolf; otherdog; other,0,0,-1
+lion; otherungulate,0,1,1
+husky; anthro,-1,0,-1
+tiger; anthro,0,1,2
+otherdog; lemur,0,-1,-2
+wolf; husky; domesticcat; otherfeline; riverotter; deer; squirrel; hyaena; polymorphic,0,0,-1
+other,-1,1,2
+wolf,,-2,-2
+germanshepherd,1,0,0
+dragon; anthro; feral,0,0,-1
+dragon; anthro,-1,-2,-2
+hyaena; anthro,0,0,0
+domesticcat,0,0,0
+fennec; anthro,-2,-2,-2
+skunk; mouse; squirrel; rabbit; anthro,-2,0,-2
+redfox; anthro,-2,-2,-1
+husky,-1,0,1
+otherdog; anthro,0,1,1
+redfox,-1,-1,0
+anthro; feral; other,-1,0,-2
+wolf; coyote,1,2,0
+deer,-2,-1,-1
+lion,-2,1,0
+kitsune; anthro,0,0,-1
+otherfox; dragon; raccoon; skunk; anthro,0,0,-2
+otherfeline; anthro,0,0,0
+dragon; feral,-1,0,-2
+riverotter,0,0,-1
+raccoon,-1,1,0
+other,0,-1,1
+arcticfox,-1,-2,-2
+other,-1,-1,-1
+dragon,-1,-1,0
+wolf; otherdog,1,-1,0
+rat; anthro,-2,-2,-1
+dragon; feral,-1,0,0
+redfox; cougar,1,0,1
+otherdog; otherbird,0,-1,-2
+otherungulate; anthro,-1,-1,1
+husky,2,-2,0
+redfox; dragon; anthro,-2,0,0
+anthro; other,-1,1,2
+wolf; husky,-1,1,0
+domesticcat,0,0,0
+wolf; tiger,-1,0,-1
+arcticfox,-2,-2,-1
+dragon,1,0,-2
+wolf; anthro,-2,0,-2
+dragon; otherbird,-1,1,-1
+otherdog,1,-1,1
+domesticcat,-2,-2,0
+snowleopard; otherfeline,1,1,1
+lizard,0,-1,-2
+wolf,0,-1,-1
+dragon; anthro,-1,-1,-1
+otherfeline,-2,-2,-1
+lizard; anthro,-1,0,0
+cheetah; anthro,-2,1,-1
+othercanine; lizard; anthro; other,-2,-2,0
+griffin,-1,0,1
+dragon; anthro,-2,0,-1
+othercanine,-1,-1,-1
+cheetah; anthro,-1,-1,-1
+greyfox,-2,-1,2
+riverotter; anthro,0,0,-1
+fennec; anthro,1,-1,0
+otherdog,-1,0,2
+raccoon,1,1,-1
+other,-1,-1,0
+raptor,-1,0,0
+pandabear,-1,0,0
+husky,1,1,2
+grizzlybear,1,0,-1
+wolf; dragon,1,1,1
+redpanda,1,0,1
+other,1,2,0
+wolf; otherfox; anthro; feral,1,0,1
+rabbit,-1,-1,-1
+riverotter,1,-2,1
+wolf,-2,-1,0
+redfox,1,1,0
+kitsune; anthro,-1,0,0
+dragon,0,0,-1
+fennec,-1,0,1
+husky; polymorphic,-2,-2,-2
+,0,0,-2
+arcticfox,0,1,-2
+otherdog; otherungulate; anthro; other,-1,0,0
+kangaroo; other,-2,0,-1
+grizzlybear; anthro; other,1,-1,2
+othermustelid; anthro; feral; other,-2,-1,0
+raven,0,-2,-2
+wolf,-1,,1
+greyfox,-2,-2,0
+husky,-2,-2,2
+wolf; raptor; anthro; polymorphic; other,0,0,-1
+kitsune; leopard; hyaena; anthro,0,0,0
+kitsune; anthro,1,0,-1
+otherfeline; anthro,0,0,1
+redfox,-1,-2,-2
+domesticcat,-2,1,1
+wolf; arcticfox,-2,-2,-1
+dragon,0,0,-1
+lion; otherreptile; otherungulate; feral,0,0,-1
+anthro,2,-1,-1
+hyaena,-1,-1,-1
+riverotter,-1,-1,0
+skunk,0,0,0
+jackal; anthro,-2,0,-1
+dragon; feral,0,0,0
+other,-2,-2,-1
+germanshepherd,0,1,-1
+wolf; anthro,-2,-1,-1
+otherdog,-1,-2,-1
+other,0,0,0
+domesticcat,0,0,0
+otherfox; horse,-2,-2,0
+wolf,2,0,0
+otherdog,-2,-1,-1
+dragon,-1,-2,0
+otherfox,-2,-1,1
+dragon,1,0,0
+dragon; anthro,,,-1
+wolf,0,0,-1
+wolf; dragon,-1,1,0
+redpanda,-1,-1,0
+otherbird; anthro,-2,0,-1
+arcticfox; fennec,1,-1,-2
+otherfox; deer; anthro,1,2,0
+domesticcat,-2,-2,-1
+wolf; othercanine; polymorphic,0,0,0
+dragon,2,1,0
+other,-2,2,2
+otherdog; othercanine; anthro,-2,-1,0
+wolf; greyfox,0,0,1
+raccoon,-1,-2,-2
+otherdog; deer; anthro,0,0,0
+rat,-2,0,-1
+wolf; otherfox; anthro,-2,-2,-1
+arcticfox; otherbird; anthro,0,-2,1
+dragon,1,1,0
+dragon; feral; other,0,-1,-2
+raccoon,-1,0,-2
+kangaroo; anthro,-1,-1,0
+coyote,0,0,1
+husky,1,1,-2
+wolf,1,0,0
+wolf; germanshepherd,-1,-1,2
+wolf; skunk,1,1,0
+dragon,2,0,-1
+anthro,0,0,0
+hyaena,0,0,0
+riverotter,-1,1,2
+dragon,0,0,0
+othercanine,-2,-1,-1
+redfox,0,0,1
+coyote,-1,0,2
+weasel,0,0,-1
+redfox,-1,0,0
+raccoon,2,1,1
+other,-1,-1,-1
+otherfeline,-1,-2,1
+mouse,0,1,-1
+dragon,0,-1,-2
+dragon,-1,0,-1
+redpanda,0,0,-1
+wolf,1,0,2
+otherdog,0,0,-1
+tiger,0,1,-1
+dragon; anthro,0,0,-1
+griffin; anthro; feral,2,0,-2
+wolf,-2,-1,0
+redfox; anthro,-1,0,1
+kitsune,0,0,1
+wolf; husky,0,0,2
+squirrel,0,1,0
+otherfeline; raptor; griffin; anthro; feral; other,-1,0,0
+raccoon,-1,-1,0
+otherdog,-2,-1,-1
+wolf; redfox; germanshepherd; husky,1,0,1
+anthro; other,-2,-1,-1
+wolf,-2,-2,1
+bat,0,0,-1
+raccoon; anthro,0,0,1
+othermarsupial,,,0
+rabbit,-1,0,-2
+dragon; anthro,0,0,0
+kitsune; fennec; feral,-1,-2,-1
+domesticcat,-2,-2,-1
+domesticcat; dragon; rabbit,-1,-1,-2
+raccoon,0,-1,-1
+fennec; anthro,,,0
+riverotter,-2,-1,-1
+arcticfox; kitsune; anthro; feral; polymorphic; other,-2,1,2
+domesticcat,,1,1
+greyfox; fennec,-1,1,2
+lizard; anthro,-2,-2,0
+other,0,1,2
+otherfox; feral,1,0,1
+otherungulate; other,-2,-2,-1
+rabbit,0,1,-1
+dragon; feral,0,0,0
+fennec,0,-2,0
+arcticfox,0,0,0
+domesticcat,-2,-1,0
+otherfeline; anthro; other,1,0,0
+seaotter,0,1,-1
+tiger,-1,1,0
+coyote; othercanine; anthro; feral; polymorphic,2,-1,2
+fennec,-1,1,-1
+otherfeline; redpanda; othermusteloid; other,0,0,0
+other,-1,1,-1
+tiger; domesticcat,1,0,2
+wolf,-1,-1,0
+wolf,-1,0,1
+wolf; raven,0,-1,0
+other,-1,-1,-1
+wolf,0,0,0
+wolf,-1,0,-1
+fennec; domesticcat,0,-1,-2
+wolf; anthro,0,1,1
+tiger; grizzlybear,1,0,1
+wolf,-1,0,-1
+tiger; snowleopard; otherfeline,2,0,-1
+domesticcat,-1,-1,0
+wolf,-2,-2,-1
+wolf; otherdog,2,1,0
+dragon; anthro,-1,0,0
+fennec; anthro,1,0,0
+otherfox; anthro,0,0,1
+dragon,-1,-1,1
+wolf,,,0
+domesticcat,1,-1,-1
+wolf; othercanine; anthro,0,0,0
+othermarsupial,0,1,1
+brownbear,1,-1,-1
+redfox,,,-1
+koala,-2,-2,0
+lion,-1,0,1
+wolf; dragon; anthro; polymorphic,-1,-1,-1
+othermustelid,0,-1,0
+dragon; otherbird; feral,,,-1
+otherungulate,-2,-1,-1
+wolf,2,1,0
+rabbit; anthro,-1,0,0
+wolf,-1,-2,1
+collie; otherdog,0,-1,-2
+othercanine; anthro,1,0,-1
+wolf; fennec; snowleopard; panther; dragon; anthro; feral,-2,-2,0
+grizzlybear; otherbear,0,0,0
+raccoon; anthro,-1,0,-1
+mouse,0,0,-1
+tiger; cheetah,-2,-1,0
+coyote; tiger,0,0,0
+husky,-2,-1,0
+wolf; husky; anthro,-1,-1,0
+wolf,2,2,2
+other,0,0,0
+horse,-1,-1,0
+wolf; redfox; dragon,-1,1,0
+riverotter; anthro,1,-1,0
+wolf; husky,1,-1,-1
+wolf,-2,-1,-1
+dragon; anthro,-1,0,0
+wolf,-1,-2,1
+dragon; rat; anthro,1,-1,-1
+other,-1,0,2
+rat; anthro,0,-1,1
+redpanda,0,-1,0
+dragon,1,-1,-2
+othercanine; other,-2,1,1
+otherfox,-2,1,2
+cheetah,0,1,0
+redfox,1,0,1
+wolf; dragon,0,0,0
+otherbird; anthro,-1,0,0
+otherbird; anthro,-2,,1
+wolf; anthro,0,0,0
+otherdog; otherungulate,-1,1,1
+coyote,0,0,0
+wolf,-1,1,-2
+germanshepherd,0,-1,1
+redfox; tiger; dragon; other,1,0,1
+arcticfox,1,1,1
+raptor; anthro; feral,-1,0,-1
+wolf,-1,1,1
+deer,-1,-1,1
+otherbird; other,-2,0,-2
+dragon; redpanda; anthro; polymorphic; other,-2,0,2
+othermustelid,0,-1,-2
+arcticfox; anthro,0,0,-1
+other,0,0,-1
+wolf; husky,0,1,-1
+domesticcat; anthro,-2,-1,-1
+wolf; tiger; lion,1,1,2
+lion,1,0,-1
+leopard; panther; domesticcat; otherfeline; dragon; anthro; feral; polymorphic; other,1,1,0
+wolf,-2,-1,0
+kitsune,1,2,-1
+otherdog; anthro; feral,2,1,1
+cheetah,0,1,1
+cheetah; otherfeline; anthro; other,1,2,2
+fennec; otherfox; cheetah; hyaena; anthro,0,-1,-1
+,-1,-1,-1
+otherbird,0,0,-1
+domesticcat; anthro,1,0,-1
+wolf,-2,-1,2
+wolf,0,1,2
+wolf,-1,0,-1
+husky; feral,-1,1,0
+polymorphic; other,-1,1,0
+raptor,-1,0,1
+dragon,-1,-1,1
+rat,1,0,1
+raptor; anthro,-1,0,-1
+wolf; greyfox,-1,0,0
+husky,1,1,1
+rabbit,0,1,-2
+redfox; anthro,0,0,0
+leopard,-1,-1,0
+other,0,0,-1
+dinosaur,-1,0,-1
+domesticcat,-2,-2,-2
+otherfox,-2,-1,1
+brownbear; anthro; feral,0,0,-1
+hyaena,1,0,1
+domesticcat,-2,1,0
+dinosaur; otherreptile; anthro,-2,-1,2
+othercanine; anthro,0,1,1
+other,-1,0,0
+deer,0,0,-2
+wolf; anthro,0,1,0
+otherfox; feral,-1,-1,0
+wolf,,,0
+husky,1,-1,-2
+jackal,-1,1,0
+otherfeline; polymorphic,-1,0,-1
+wolf; redfox; anthro,-1,0,0
+husky,-2,-1,1
+riverotter,-2,-1,0
+wolf,-1,-2,1
+tiger; lion; anthro,-1,-1,0
+rabbit,0,1,-1
+redfox; anthro,-1,0,1
+wolf,1,1,0
+wolf,-2,0,1
+redfox; husky; anthro; feral,0,0,1
+mouse,0,0,0
+wolf,-1,-1,0
+rabbit,-1,-1,-1
+dragon; deer,0,0,0
+bat,1,0,1
+redfox,-2,1,1
+wolf; other,1,0,1
+raccoon,-1,-1,-1
+wolf; redfox; otherfox; tiger; leopard,0,0,0
+riverotter; weasel,-1,1,-1
+dragon; bat; anthro; feral,0,0,-1
+otherdog; feral; polymorphic,-1,0,-1
+wolf,-2,0,0
+domesticcat,-2,-2,-1
+snowleopard,2,-2,-2
+otherfox; anthro,2,0,2
+dragon; anthro,0,0,-1
+husky; anthro,1,-1,1
+jackal; anthro,0,0,1
+anthro; other,0,-1,-2
+dragon; anthro; feral,-2,0,2
+wolf,-2,-2,0
+anthro; polymorphic; other,-1,-2,2
+otherdog,1,-2,1
+othercanine; otherfeline; anthro; feral,0,0,-2
+othercanine; othermustelid; feral; polymorphic,-2,0,2
+wolf; redfox; fennec,-1,1,-2
+redfox,-1,2,0
+otherfox,0,1,1
+redfox; anthro; feral,-2,1,1
+other,-1,-1,0
+panther,0,-1,1
+hyaena,-1,-1,-2
+wolf,0,0,0
+redfox,-2,0,0
+deer,0,-2,-2
+wolf; lion,-2,-2,-1
+dragon; anthro,0,-1,-2
+otherfox,-2,0,0
+deer; anthro,-2,-1,-1
+rabbit,1,1,0
+grizzlybear; anthro; other,0,0,1
+wolf,-1,1,0
+arcticfox,-1,1,1
+arcticfox; kitsune; anthro,-2,0,-1
+fennec,-1,-2,-1
+redfox,1,-1,0
+otherreptile; anthro,0,0,-1
+redfox; anthro,-2,-1,1
+tiger,-1,1,0
+raccoon; anthro; feral,-1,0,0
+kitsune; husky; anthro,-1,-2,0
+tiger; polymorphic,0,0,-1
+otherdog,-1,-1,-2
+wolf; anthro,0,0,0
+dragon; lizard,-1,0,0
+anthro; other,0,0,-1
+wolf; othermustelid; anthro,1,-1,-1
+monkey; anthro; other,0,0,0
+wolf,0,1,-2
+squirrel,0,0,0
+redfox,-1,1,1
+dragon,1,-1,0
+grizzlybear; otherbear,-1,-1,1
+wolf,0,-1,-2
+lion; anthro,1,1,1
+wolf; tiger; anthro; feral; other,2,2,2
+redfox,-1,1,-1
+otherdog; polymorphic; other,-1,0,0
+lion; domesticcat,-1,0,2
+dragon,1,1,1
+snowleopard,0,0,1
+wolf; redfox; redpanda; taur,1,,-1
+othercanine; anthro,-1,-1,-1
+dragon,0,0,-1
+domesticcat; anthro; feral,-2,-2,-1
+redfox,0,0,-1
+dragon,0,1,2
+wolf,-2,0,2
+wolf; dragon; otherungulate; anthro,1,0,0
+wolf; germanshepherd,,-1,0
+rabbit,0,0,1
+riverotter,0,0,-1
+rabbit,0,0,0
+coyote,2,1,0
+tiger,0,-1,-2
+wolf,-2,-2,-2
+otherfeline; anthro; polymorphic,0,0,1
+otherfox; anthro,-1,-2,0
+wolf,,-2,-2
+dragon; anthro; other,-2,,-2
+other,-2,-1,0
+riverotter,1,1,0
+griffin,0,0,0
+rabbit,-2,0,1
+otherdog; anthro; feral,-1,0,-2
+domesticcat,-1,0,1
+otherfox,1,1,0
+skunk,-1,-1,-1
+otherdog,-1,0,-1
+redfox,-2,0,0
+otherbird,-1,0,0
+dragon,0,-1,-1
+wolf; feral,-1,-1,0
+wolf; anthro,0,0,-2
+redfox,,,1
+other,0,0,0
+wolf,-2,-2,0
+fennec; otherungulate; anthro; other,-1,-1,-2
+husky,-1,0,1
+rabbit,-2,-1,0
+wolf,-2,-1,-2
+wolf,-1,0,1
+hyaena; anthro; other,-2,0,0
+arcticfox; cheetah; hyaena; anthro,0,-1,1
+domesticcat,-2,1,1
+wolf; dragon; lizard; deer; polymorphic,0,0,1
+redfox,1,0,-1
+raptor,0,2,-1
+redfox,-2,-2,-1
+redfox,-2,-2,0
+skunk,-1,-1,-1
+other,-1,-1,-1
+redfox,1,1,1
+coyote; anthro,2,0,1
+germanshepherd; anthro; feral,-2,-2,-2
+otherdog,-1,0,1
+dragon,-2,0,1
+wolf; redfox,0,0,0
+otherbird,0,1,1
+lizard,-2,-1,-1
+redfox; rabbit,-1,-1,-1
+redfox; anthro,-1,0,1
+wolf,2,1,0
+redfox; anthro,0,-1,-2
+othermarsupial; other,0,0,-1
+arcticfox,-2,-2,-1
+kitsune; anthro,0,0,0
+redfox; otherdog,0,-1,-2
+bat,-1,1,-1
+panther,0,-1,1
+othercanine; polymorphic,0,-1,0
+anthro; other,-1,-1,-1
+kitsune,-1,0,1
+wolf; bat; anthro; feral,-2,1,0
+rabbit; anthro,0,0,-1
+raccoon,-1,-1,-1
+lion,0,0,-1
+hyaena,0,1,0
+wolf; husky,1,0,-2
+redfox; kitsune,-1,0,1
+redfox; feral,-2,0,1
+dragon,-1,0,0
+lion,-1,-1,0
+redfox,1,0,0
+wolf,-1,-1,-1
+greyfox; anthro,0,0,0
+redfox,1,-1,-1
+otherdog,1,1,1
+domesticcat,-2,-1,0
+domesticcat; other,0,1,-1
+raccoon; anthro,0,0,0
+domesticcat,0,0,0
+panther; otherfeline; polymorphic,-1,0,-2
+wolf; husky,0,0,1
+jackal; otherfeline,0,0,-1
+grizzlybear; anthro,-2,1,0
+hyaena; anthro,2,1,0
+otherfox,0,2,1
+riverotter,1,0,1
+other,1,0,-1
+germanshepherd,-2,-2,-2
+other,-1,0,1
+greyfox; squirrel; otherbird,1,-1,-2
+raccoon; anthro,0,0,-2
+domesticcat,0,0,1
+redfox; raccoon,-2,-2,-1
+dragon,0,0,-1
+otherdog,1,-1,-2
+othermarsupial; anthro; other,-2,1,0
+snowleopard,-2,0,1
+jackal; taur; anthro,0,1,2
+wolf; husky; anthro; feral,-2,-1,0
+snowleopard; domesticcat,0,1,2
+wolf,1,0,-1
+wolf,-2,-1,-1
+deer; taur; anthro; other,2,1,-2
+lion,-1,0,-2
+wolf; arcticfox; anthro,-1,0,1
+othercanine,-2,-1,-1
+coyote,-1,0,-1
+wolf; feral,-2,-2,-1
+raptor,-1,0,0
+lion,1,0,-1
+dragon,0,0,-1
+horse; raven; anthro,1,-1,-2
+wolf,-2,-1,-1
+brownbear,0,1,0
+other,-1,-1,0
+horse; anthro,1,0,2
+otherbird; anthro,-2,-2,0
+tiger; anthro,-1,-1,-1
+redfox,-1,-2,-1
+wolf; otherfox,-1,-1,-1
+wolf,-1,0,1
+domesticcat,0,0,1
+tiger; dragon,2,1,0
+lion; anthro,-1,-1,-1
+husky; anthro,0,0,-1
+redfox,-2,1,2
+anthro; feral; polymorphic,-2,-1,-1
+deer,0,0,1
+otherfeline,-1,1,1
+wolf,-2,-1,-1
+arcticfox,2,2,1
+raven; raptor; anthro; polymorphic,0,-1,-1
+otherfox; deer; anthro; feral,-1,-2,-2
+tiger,0,0,1
+cheetah,-1,-1,0
+wolf; dragon,0,0,0
+fennec,-1,-2,1
+otherdog,-1,-1,0
+othermusteloid; anthro; other,-2,-1,-2
+wolf,-1,0,2
+coyote,-1,0,0
+horse; polymorphic,-1,0,0
+deer; rabbit; anthro,2,1,-1
+redfox,-1,-1,-2
+rabbit,-2,-2,0
+redfox; anthro,1,0,-1
+domesticcat,-2,1,0
+redpanda; anthro,1,-1,0
+other,-2,-1,1
+squirrel,-1,-1,0
+husky; rabbit,-2,-1,-1
+redfox; kitsune; fennec; otherdog; snowleopard; domesticcat; dragon; redpanda; deer; lemur; feral,0,0,-1
+bat,-1,-1,0
+redpanda,0,0,2
+domesticcat,-2,-2,0
+redfox,0,-1,0
+otherfeline; otherbird; griffin,1,0,0
+wolf; coyote,0,0,0
+othercanine,1,0,-1
+otherdog,1,1,2
+otherdog; anthro; other,-1,-1,-1
+anthro; polymorphic; other,-1,-1,-2
+riverotter,-1,1,1
+raccoon,0,0,2
+otherfox,-1,1,2
+greyfox; anthro,1,0,-1
+raptor,-2,-2,-2
+deer; polymorphic,0,-1,-1
+dragon,0,-2,-1
+coyote,-1,0,1
+wolf; otherdog; anthro; feral,-2,-1,-1
+otherfeline,-1,-1,-1
+wolf; anthro,1,1,1
+redfox,-2,-2,-2
+redfox; pandabear,,0,1
+cheetah,-1,-1,-2
+dragon; feral,0,-1,0
+dragon,-2,-2,-1
+bat,-2,-2,-2
+otherbird,-2,0,-1
+redfox,-2,-1,1
+otherfox,-1,0,-1
+kitsune; fennec,1,-1,-1
+domesticcat; anthro,0,0,0
+snowleopard,-2,-1,-1
+othercanine; anthro; feral,-2,-1,-2
+wolf,-1,1,0
+wolf,1,0,2
+arcticfox,1,-1,-1
+redfox,-1,0,0
+othermustelid,-1,-1,0
+wolf; redfox; kitsune; anthro; polymorphic,-1,-2,0
+feral; other,0,0,0
+wolf,-1,-2,0
+greyfox,1,0,-1
+otherfeline; redpanda; anthro,0,-1,-1
+lizard; anthro,-1,0,1
+germanshepherd,-2,-1,0
+cheetah; anthro,1,0,-2
+domesticcat,0,0,-2
+dragon; anthro; feral,-2,0,-1
+jackal; anthro,-1,1,1
+otherfeline; other,-1,1,0
+otherdog; dragon,0,-2,0
+otherdog; anthro; feral,2,-2,0
+cheetah,-1,1,0
+coyote,-2,-2,0
+wolf,0,1,-1
+redfox; othercanine; kangaroo; hyaena; anthro,-2,-1,-1
+wolf; redfox; greyfox; arcticfox; otherfox; coyote; otherdog; othercanine; cheetah,0,-1,1
+riverotter,1,-1,0
+redfox,-1,0,1
+snowleopard; otherfeline; anthro,0,0,0
+lizard; anthro,0,-1,1
+wolf,-1,0,-1
+horse; feral,-1,-1,-2
+redfox,-2,-1,-1
+domesticcat,-2,-1,1
+wolf; redfox,0,0,0
+domesticcat; anthro,0,0,-1
+domesticcat,-2,-2,-1
+domesticcat,-2,-1,0
+domesticcat; dragon; bat,0,0,0
+squirrel; feral,-1,-2,-2
+snowleopard; dragon; anthro; feral,-2,0,-1
+redfox,0,0,1
+cougar; domesticcat,-1,-1,0
+wolf; anthro,-1,0,1
+redfox,0,-1,1
+redfox; anthro,0,1,1
+dragon; anthro,2,2,2
+domesticcat,2,2,2
+dragon,-2,0,-1
+horse; anthro,-1,1,1
+wolf; othercanine; otherfeline; feral,-2,-2,1
+lion; leopard; panther; cheetah; cougar; domesticcat; otherfeline,-1,0,1
+deer; rabbit,-2,0,1
+wolf; griffin,-1,0,1
+lion; anthro,-1,0,1
+arcticfox; anthro,,0,-1
+otherfox; anthro,-1,0,-1
+fennec,-1,-1,-2
+wolf; horse; anthro,-1,0,1
+coyote,-1,1,1
+redfox,-1,0,0
+germanshepherd,1,1,1
+redfox; anthro,0,0,0
+wolf; anthro; feral,-1,-2,0
+rabbit,1,-1,0
+panther,-1,-1,-1
+dragon,0,-1,-1
+redfox,0,1,2
+wolf; riverotter,-2,0,0
+redfox; fennec; redpanda; deer,-1,1,-1
+otherfox; dragon; anthro; feral,-2,-1,0
+,-1,-1,-2
+domesticcat,0,0,0
+anthro; feral; other,-2,-2,-2
+wolf; redfox; greyfox; arcticfox; kitsune; fennec; otherfox; coyote; jackal; germanshepherd; husky; collie; otherdog; othercanine; hyaena; anthro,0,0,1
+dragon,0,1,0
+dragon,1,0,0
+anthro; other,-1,-2,0
+wolf; otherdog,-1,0,0
+domesticcat,-1,-2,-1
+other,-2,-1,-1
+kitsune,0,-1,-2
+rabbit,1,0,1
+bat,-1,-1,-2
+kitsune,-2,-1,0
+dragon; feral,-2,-1,0
+wolf; arcticfox; anthro; other,0,0,-1
+dragon,-1,-1,0
+wolf,0,0,0
+redfox; arcticfox; husky; anthro; feral; other,-1,-1,-1
+wolf,-1,0,-1
+dragon; anthro; feral,-1,-2,-2
+domesticcat,-1,-2,-2
+redfox,0,-2,-1
+wolf; anthro,-1,-1,-2
+otherfeline; other,-2,0,-1
+germanshepherd,-2,-1,-1
+wolf; anthro; other,-1,0,0
+husky; anthro,0,-1,1
+wolf,-1,-1,-2
+wolf; anthro,0,-1,-2
+otherfox,-1,0,1
+otherdog,-2,0,0
+riverotter; anthro; feral,-2,2,0
+redfox,-1,-2,0
+wolf; husky; othercanine; anthro; other,-1,1,0
+dragon; anthro,1,0,1
+raven,1,0,0
+wolf; redfox,1,0,1
+dragon,1,0,-1
+dragon; feral,0,-1,-1
+otherdog; dragon,-2,-2,-1
+dragon,-2,1,-2
+dragon,1,0,1
+dragon; feral,1,0,-1
+dragon; anthro,-1,1,0
+dragon; other,-2,1,0
+dragon,1,1,2
+otherbear; anthro; other,-2,1,0
+arcticfox,-2,0,0
+wolf; hyaena,1,-1,-1
+othercanine,-2,-1,-1
+tiger,-1,-1,-2
+dragon; other,-1,-2,-2
+dragon; other,-2,-1,0
+dragon,2,1,1
+redfox,0,0,0
+coyote; anthro,0,0,0
+redpanda; anthro,-1,2,1
+otherdog; anthro,0,0,0
+wolf; otherfox; anthro,0,0,-1
+otherfox,-1,0,0
+lion; anthro,-1,0,-2
+tiger; anthro; feral,1,0,-1
+other,-1,-2,1
+otherfox; tiger; domesticcat; dragon; anthro,-1,-1,1
+lion,1,1,1
+weasel; othermustelid,-1,-1,0
+lizard; horse; feral; other,2,1,1
+wolf,1,0,0
+snowleopard; otherfeline; anthro,1,,-1
+snowleopard,0,0,1
+jackal; other,0,-1,-1
+fennec; riverotter; anthro,-1,1,1
+otherdog,-1,-1,0
+deer,0,0,0
+redfox; anthro,-1,2,1
+,-2,0,-2
+snowleopard,-1,-1,0
+otherfox,-2,-2,-2
+wolf; anthro,-1,-1,2
+otherreptile; other,2,0,1
+wolf,-2,-1,1
+greyfox,-1,0,0
+arcticfox,1,-1,1
+wolf; anthro,-1,0,1
+redfox,0,0,0
+redfox; arcticfox; otherfox; anthro; other,0,-2,-2
+badger; othermustelid,0,1,-2
+redfox; anthro,0,-1,-1
+snowleopard,1,0,2
+domesticcat,1,2,2
+rabbit,-2,-2,2
+other,0,0,1
+otherbear,0,-1,-1
+kitsune; polymorphic,-2,-1,-1
+othermarsupial,-1,-1,-2
+wolf; anthro,0,0,0
+coyote,-1,0,-1
+wolf; otherfox; otherdog; anthro,-2,0,-1
+anthro; other,0,0,-2
+wolf; arcticfox; husky; panther; dragon; bat; anthro,2,2,-2
+,0,0,1
+wolf; anthro,0,0,0
+deer,0,1,1
+greyfox; husky; polymorphic,-1,0,-1
+husky; anthro,1,0,-1
+otherdog,-1,-1,-2
+coyote; raptor,-1,-2,0
+otherfox; anthro; feral,-1,0,2
+fennec; raccoon,-2,-1,0
+hyaena; anthro,-1,1,-2
+wolf,0,0,0
+othercanine; anthro,-2,-1,-1
+anthro; polymorphic; other,0,-1,1
+otherfeline; other,-1,1,2
+redfox; anthro; feral,0,0,0
+rabbit,-1,-2,-1
+hyaena,0,0,1
+otherdog,0,0,0
+wolf,-2,0,0
+othermustelid; anthro; feral,-1,-1,0
+domesticcat; anthro,-1,-1,0
+polarbear,0,0,2
+rabbit,0,1,0
+redfox; anthro,0,0,0
+riverotter; seaotter,0,2,2
+tiger,0,0,0
+tiger,0,0,0
+germanshepherd,0,-1,-2
+othermustelid,2,0,1
+wolf,0,-1,1
+wolf,-1,1,0
+otherdog,0,0,0
+wolf; domesticcat,-1,-1,-1
+wolf,-2,-1,-1
+wolf; anthro,0,2,2
+domesticcat; otherfeline; anthro,0,0,0
+rabbit,0,0,-1
+wolf,-1,-2,0
+tiger; otherbear; other; lemur; hyaena,0,-1,1
+domesticcat; anthro,2,0,0
+wolf,-2,-2,1
+dragon; anthro,0,1,0
+wolf,0,0,-1
+rabbit,1,0,0
+dinosaur; anthro,0,0,-1
+redpanda,-1,-1,-1
+redfox; otherdog; anthro,1,1,1
+otherfox; anthro; feral,0,-1,
+redfox; otherfox; anthro,-2,1,2
+otherdog,1,0,0
+husky,1,-1,1
+other; other,1,0,-1
+redfox,-2,-1,-1
+husky,-1,-1,-1
+domesticcat,-2,-1,0
+lion; anthro; feral; polymorphic,1,0,-1
+other,0,0,0
+cheetah; feral,0,-2,1
+fennec,0,0,0
+redfox; anthro,0,0,0
+othercanine; dragon; otherbear; feral,-1,0,1
+lizard,-1,-1,-1
+otherfox,-2,0,0
+wolf; anthro,1,1,0
+kitsune; polymorphic,1,0,1
+leopard,0,0,-1
+coyote,1,0,-2
+lizard,1,0,0
+husky,-1,0,0
+coyote,-2,0,2
+dragon,1,0,-1
+domesticcat; other,0,0,0
+redfox,-2,-1,1
+wolf; kitsune; coyote; domesticcat; dragon; rat; rabbit; hyaena; polymorphic; other,1,-1,2
+othermustelid; feral,0,0,-1
+deer; anthro,-1,1,-1
+otherdog,2,1,1
+wolf,0,0,-1
+wolf; dragon,-1,-1,-2
+wolf; otherdog,-2,0,1
+domesticcat; dragon,0,0,0
+riverotter,1,0,2
+riverotter; seaotter,-2,0,-1
+wolf,1,0,1
+dinosaur; anthro; feral,0,-1,0
+wolf,-2,-1,-2
+horse; anthro; feral,1,-1,0
+otherungulate; other,0,-1,1
+raccoon; anthro; other,0,-1,1
+other,0,0,1
+tiger,0,-1,-1
+other,1,-1,0
+wolf,-1,-2,-2
+wolf,-2,-1,-1
+fennec,-2,-2,-1
+othercanine,0,0,0
+other; other,1,-1,2
+germanshepherd,0,0,0
+wolf,0,0,-1
+dragon; horse; other,-1,0,
+redfox,-2,0,-1
+arcticfox; coyote,-1,-2,0
+husky,0,-1,-1
+other,-1,-1,1
+redfox; anthro; polymorphic,-1,0,0
+arcticfox,-1,1,0
+wolf,0,-1,-1
+hyaena,-1,-2,-2
+riverotter; anthro,-2,-1,0
+snowleopard,0,-2,1
+rabbit,0,0,0
+domesticcat; anthro; feral,1,-1,-2
+redfox; anthro,0,-1,0
+wolf; anthro,-1,-1,-2
+anthro; feral; other,1,1,0
+redfox,0,0,-2
+deer; anthro; feral,0,0,-1
+domesticcat,1,1,0
+redfox,-2,0,-1
+other,-1,-1,1
+anthro; other,-1,-1,0
+othercanine,-2,-1,0
+raptor; anthro,-1,0,1
+other,-1,-1,0
+kitsune; otherfox; dragon; anthro; other,0,-1,-1
+other,0,0,0
+badger,-2,0,0
+redfox; domesticcat,-1,-1,-1
+wolf; anthro,-1,1,-2
+rabbit,1,-1,0
+anthro; other,-2,-2,-2
+dragon,-1,1,0
+domesticcat,-2,-1,-1
+otherdog; anthro,1,0,-1
+wolf,1,0,1
+wolf,1,0,1
+otherfeline; anthro; feral,-2,1,2
+horse,0,0,-1
+redfox,-1,-1,-2
+wolf,-2,0,-1
+otherfox; jackal; tiger; cheetah,-1,1,1
+wolf,0,0,0
+redfox,-2,-1,2
+other,-1,0,1
+greyfox,-1,0,-2
+other,,,1
+domesticcat,-1,0,-2
+wolf,-1,1,0
+wolf; tiger; anthro,0,0,1
+dragon; other,-2,0,2
+lion,-2,-2,0
+other,0,0,0
+wolf; redfox,1,0,1
+otherfox; cougar; riverotter; pandabear; rabbit; lemur; anthro; feral,0,-1,0
+domesticcat; raccoon; anthro,-2,-2,-1
+otherfox; dragon,-1,-1,-2
+dragon; feral,0,-1,-1
+domesticcat,-2,-1,0
+dragon,0,0,-1
+collie; otherdog,1,0,1
+rabbit,1,-2,2
+lion; anthro,-1,1,-1
+tiger; anthro,-1,-1,0
+wolf; deer; anthro; feral,-1,1,0
+bat,1,0,-1
+wolf; tiger; raptor; anthro,0,-2,-1
+wolf,-2,-1,-1
+domesticcat; anthro,0,0,-1
+jackal,-1,-1,-2
+husky,-2,-2,-2
+husky,1,0,1
+domesticcat,-2,-1,-1
+domesticcat; dinosaur,1,1,-1
+snowleopard,-1,-1,1
+wolf,,1,0
+other,-1,-1,-1
+domesticcat,0,0,0
+other,-2,0,-2
+kitsune; otherfeline,-2,-1,1
+other,-2,-1,-2
+cheetah; griffin; feral,-1,0,0
+kitsune; other,0,0,0
+dragon; dinosaur,-1,-1,-2
+husky,0,-1,1
+other,-1,-1,-2
+lion,0,-2,1
+otherfox; dragon; anthro,0,-2,1
+hyaena,0,0,-2
+otherreptile; other,0,1,-2
+tiger; grizzlybear,-1,2,1
+otherdog,1,1,1
+wolf; coyote,-1,-1,1
+wolf; redfox; anthro,-1,-1,-1
+other,2,1,1
+tiger,-1,-1,-1
+otherdog; anthro,-1,-1,-1
+tiger; anthro,-2,-1,1
+wolf,-1,0,-1
+wolf,-1,0,0
+fennec,-1,1,0
+wolf; tiger; other,-2,-2,2
+snowleopard,1,-1,0
+redfox; kitsune,-2,-1,-1
+wolf; germanshepherd,1,-1,1
+collie,2,-2,2
+wolf,0,0,-1
+raccoon,0,1,-1
+hyaena; anthro,-1,0,-1
+dragon; rabbit,-2,-1,0
+wolf,1,0,0
+arcticfox,1,2,1
+lizard; otherreptile; anthro,0,-1,-1
+cheetah; riverotter,-1,1,0
+tiger,-2,1,-1
+wolf; fennec; anthro,0,0,0
+grizzlybear,-2,-1,0
+wolf,-1,-1,0
+badger,0,1,-1
+otherfeline; other,-1,-2,1
+otherfox; anthro,-1,1,-1
+redfox,0,1,-1
+other,-2,-2,-1
+coyote,0,0,0
+riverotter,-2,0,-1
+bat; anthro,0,-2,0
+kangaroo,0,1,1
+other,-2,-2,0
+wolf; husky,-1,0,1
+tiger,-1,-1,-1
+weasel; anthro,,,0
+arcticfox,-2,0,-1
+germanshepherd,0,-2,-2
+other,0,0,0
+jackal; anthro,2,1,0
+dragon,0,0,0
+other,-2,1,0
+otherdog,-2,-1,0
+raptor,1,0,-1
+otherbird; feral,1,-2,-1
+wolf; redfox; anthro,-1,0,-2
+wolf; otherdog,-1,0,-2
+raven,0,0,1
+wolf,-1,-2,-2
+redfox,-2,1,0
+otherdog; anthro,-1,-2,0
+greyfox; anthro,-1,-2,-2
+wolf; anthro,1,0,2
+redfox; raccoon,-1,0,-1
+raptor; anthro; feral; polymorphic,0,0,-1
+bat; other,1,0,-1
+domesticcat,-2,-1,0
+husky; domesticcat,-1,-1,-2
+squirrel,-2,-2,1
+wolf,0,0,-1
+germanshepherd,2,2,-1
+lizard,2,-1,0
+wolf,-2,-1,-2
+kitsune; anthro; feral; polymorphic,-1,0,1
+cheetah,0,0,0
+redfox,-2,0,-1
+domesticcat,0,0,0
+othercanine,1,0,1
+othermustelid; anthro,-2,-2,0
+otherreptile,0,-1,1
+wolf; anthro; feral,0,0,1
+dragon; anthro,-2,-2,-2
+wolf,0,0,1
+redfox,1,1,1
+rat; anthro,1,1,-1
+griffin,0,0,0
+othercanine; anthro,-1,0,-1
+husky,0,0,0
+coyote,-1,0,-1
+rabbit,0,1,1
+pandabear,-1,-1,-1
+panther,1,1,1
+otherfox,1,0,-1
+greyfox; panther; taur; anthro; feral,-1,-1,0
+arcticfox; anthro,1,0,-1
+raccoon; anthro,-1,-1,-1
+griffin,-1,-1,0
+germanshepherd,1,1,0
+griffin; feral,0,0,0
+domesticcat,2,-1,-2
+other,-2,-2,2
+fennec; anthro,-1,-1,1
+domesticcat; anthro,-1,-1,0
+snowleopard; raptor; anthro,-1,1,-2
+redfox,-2,-2,2
+otherdog,-2,-2,-1
+domesticcat,-2,0,-2
+redfox; anthro; feral,-2,-1,-2
+otherfox; otherfeline; anthro,0,0,-1
+arcticfox; anthro,-2,0,0
+dragon,-2,-2,-2
+feral; other,-2,-1,-1
+tiger,0,0,-1
+othercanine; other,0,-1,0
+snowleopard,0,0,-1
+otherfeline,0,1,0
+dragon; anthro,-2,-2,-2
+collie; cheetah; badger; polarbear,0,1,0
+dinosaur; otherreptile; anthro,1,0,0
+redfox; tiger; rabbit; anthro; polymorphic,-1,-1,0
+mouse; anthro; feral,-1,-1,-1
+domesticcat; otherungulate; otherbird; polymorphic,0,-1,1
+anthro; other,2,1,1
+rabbit,-2,-2,-2
+coyote,1,0,0
+other,0,-1,0
+redfox; anthro,0,1,1
+skunk,0,-1,2
+kitsune,1,0,0
+bat,0,0,-1
+otherfeline; other,0,1,-1
+jackal; other,1,-2,0
+wolf; anthro,-1,-1,-1
+cheetah,-2,-2,0
+kangaroo,0,-1,1
+rabbit,-2,-2,1
+otherfox,0,1,0
+coyote; anthro; feral; polymorphic,2,0,-1
+greyfox,-2,-2,-2
+snowleopard,-2,-2,-2
+mouse,0,-1,1
+coyote,0,0,0
+wolf; redfox; otherfox,-1,0,1
+wolf; husky,-1,1,1
+wolf; redfox; greyfox; arcticfox; kitsune; fennec; otherfox; coyote; jackal; germanshepherd; husky; collie; otherdog; othercanine; tiger; lion; leopard; snowleopard; panther; cheetah; cougar; domesticcat; otherfeline; dragon; lizard; otherreptile; raccoon; skunk; badger; riverotter; seaotter; othermustelid; redpanda; othermusteloid; horse; deer; otherungulate; brownbear; grizzlybear; pandabear; polarbear; otherbear; mouse; squirrel; other; raven; rabbit; kangaroo; koala; othermarsupial; lemur; monkey; otherprimate; hyaena; bat; griffin; taur; anthro; feral; polymorphic,0,0,1
+redfox; arcticfox; anthro,0,1,1
+wolf; othercanine; anthro; feral; other,-2,-1,1
+,1,0,2
+leopard; anthro; feral,-1,-1,-2
+wolf,-1,0,-2
+wolf,-2,-1,-2
+deer; anthro,1,0,2
+otherfeline,0,0,-2
+redfox,-2,0,-2
+germanshepherd; anthro; feral,1,1,0
+wolf,-1,0,0
+wolf; anthro; feral,1,-1,0
+wolf,-1,0,1
+greyfox,-2,-1,1
+otherungulate,0,1,0
+other,-2,-2,1
+otherfox; anthro,-2,-2,1
+otherdog,-1,0,-1
+redfox; rabbit,0,1,0
+other,0,0,0
+husky,-2,0,-1
+otherdog; anthro,-2,-2,-2
+wolf,0,0,0
+hyaena,1,-1,0
+squirrel,-1,1,-1
+other,0,0,-1
+wolf,-2,-1,-1
+wolf; germanshepherd,-1,-1,0
+greyfox,0,0,0
+domesticcat,-1,-1,1
+lion,-1,0,-1
+rabbit,-2,-1,0
+redfox; deer,1,-1,0
+dragon; anthro,2,1,0
+greyfox,0,1,0
+snowleopard; domesticcat,-2,1,-2
+coyote; anthro,0,-1,0
+dinosaur,-1,-1,-2
+othercanine; anthro; feral; other,-1,0,-2
+other,-1,0,0
+otherfeline,0,0,0
+raccoon,-1,-1,1
+raccoon,-1,-1,1
+other,0,0,0
+other,-2,-1,1
+panther; raccoon; anthro,-1,0,0
+kitsune; otherfox; othercanine; otherfeline; riverotter; otherbird; rabbit; griffin; taur; anthro; feral; polymorphic,0,0,-1
+coyote,1,0,0
+redfox,0,0,0
+lizard,-2,0,0
+other,0,0,0
+othercanine; kangaroo,0,-1,-2
+domesticcat,-2,0,0
+wolf,0,-1,-2
+tiger,-2,2,0
+wolf,0,0,0
+redfox; otherdog; lion; anthro,1,0,0
+other,0,1,2
+wolf,0,1,0
+redfox,1,-1,0
+dragon; dinosaur; anthro,-1,0,-1
+panther,0,1,2
+rabbit; anthro,0,0,2
+collie,-1,0,0
+tiger,-1,-1,-1
+germanshepherd; dinosaur,0,0,1
+other,0,0,0
+other,0,0,1
+dragon; anthro,0,0,0
+wolf,-2,-2,-1
+wolf; otherdog,-2,0,-2
+othercanine; other,1,0,1
+dragon; feral,-1,1,-2
+greyfox; tiger,0,0,-1
+wolf,-1,0,0
+othercanine; dinosaur; otherungulate,-1,0,-1
+other,-2,1,2
+otherfeline,0,0,-1
+otherfeline; other,-1,-1,-1
+husky; otherdog,-1,-1,-2
+polymorphic,0,0,0
+otherdog; deer; anthro; other,0,1,1
+domesticcat; bat,0,0,-1
+otherfox; anthro; feral; polymorphic; other,-2,-1,-1
+wolf,0,-2,0
+wolf; anthro; feral,0,1,-1
+tiger; dragon; polymorphic,0,-1,-1
+otherdog; otherfeline; other,-1,-2,2
+wolf; anthro,-1,-1,1
+cougar,1,1,1
+wolf,0,0,0
+wolf,1,0,0
+other,-2,-1,0
+otherfox,-2,0,0
+husky,-1,-1,-1
+dragon; anthro; feral,-1,1,1
+dragon; bat; anthro,,-1,-2
+riverotter,-1,-1,-1
+other,-2,1,-1
+arcticfox; kitsune,2,2,1
+lion; anthro,-1,-1,-2
+othermustelid,-2,-1,-1
+domesticcat; anthro,2,1,1
+otherfox,-1,-2,1
+other,-1,0,1
+husky,-1,1,0
+dragon; anthro; feral,1,0,-1
+husky,-1,-1,1
+wolf,0,0,-2
+polymorphic,0,-1,-1
+hyaena; anthro,1,-1,0
+otherungulate; rabbit,0,0,-1
+arcticfox; collie; othermustelid; raptor; feral,1,0,1
+redfox,0,0,-2
+tiger; otherfeline,,-1,-1
+wolf,-2,-2,-2
+wolf; fennec,0,0,0
+tiger,0,0,0
+redfox; anthro; feral,-2,0,1
+other,-2,-1,-2
+other,-2,-1,-1
+redfox,1,-2,0
+squirrel,-2,0,1
+wolf; germanshepherd,-1,-1,-1
+otherdog,2,1,1
+raptor,-2,-1,-1
+monkey; other,0,0,0
+wolf,-1,-1,0
+bat; anthro,-1,1,-1
+wolf; tiger; anthro,-1,1,0
+otherfox,1,1,-1
+redfox,0,0,0
+brownbear,-1,0,0
+fennec; redpanda,-2,-2,-2
+anthro; polymorphic,0,0,-1
+wolf,1,0,-1
+wolf,-2,0,0
+snowleopard,-1,-1,1
+deer,0,0,1
+wolf; husky; anthro; feral,-1,-1,-1
+husky,-2,-2,-2
+otherdog; raven; anthro,-1,1,0
+raccoon,-1,1,2
+wolf; anthro,-2,0,-1
+snowleopard; raptor; anthro,-2,1,-2
+germanshepherd,1,0,0
+wolf,0,0,-1
+wolf; hyaena,0,0,0
+kitsune,-2,-1,-2
+otherfox,2,1,0
+lion; grizzlybear,0,0,0
+otherbird; anthro; other,1,1,0
+dragon,0,0,0
+otherdog,0,-1,1
+brownbear,0,0,-1
+anthro; other,0,-1,1
+otherfox,-1,1,1
+wolf,1,1,1
+arcticfox; coyote; othermusteloid; rat; bat,-1,2,2
+otherfox; dragon; anthro; feral,0,0,-1
+otherdog,-1,0,0
+wolf; redfox,0,0,0
+lion,-1,-1,-1
+grizzlybear,0,-1,2
+redfox,0,0,1
+redfox; anthro,-1,0,0
+otherfeline; anthro; feral,2,2,1
+redfox; anthro,1,0,2
+rabbit,-2,0,-1
+anthro,-1,-1,-1
+deer,1,1,-1
+redfox; greyfox; arcticfox; kitsune; horse; anthro; polymorphic,1,1,-1
+wolf; domesticcat,1,0,0
+otherfeline,0,0,-1
+polymorphic,0,-1,1
+lion,1,0,
+redfox,-1,0,0
+domesticcat,0,-1,0
+coyote,1,0,-1
+wolf; redfox; kitsune; otherfox; otherdog; redpanda; deer; lemur,-1,0,-2
+fennec; anthro,1,-2,-2
+redfox,0,0,0
+kitsune; fennec,-1,-2,-2
+otherdog,0,0,0
+otherfeline; anthro,1,-1,-1
+arcticfox,-2,0,-1
+arcticfox,0,0,0
+,-1,-1,-2
+other,2,0,1
+wolf; othercanine,2,1,0
+lion,0,-1,-2
+otherdog,-2,-1,-1
+domesticcat; otherfeline; anthro; feral; polymorphic; other,0,0,0
+redfox; squirrel,-1,0,-1
+fennec; koala,-1,-1,1
+monkey,-1,1,1
+fennec,-1,-2,0
+wolf; otherfox; tiger; snowleopard; panther; cheetah; cougar; raven; raptor,-1,-2,-1
+wolf; greyfox; badger; otherbird; rabbit; kangaroo,1,1,0
+husky; anthro,-2,-2,
+redfox,0,0,-1
+wolf; otherfox,0,0,0
+domesticcat,-2,1,1
+brownbear; otherbird,0,0,2
+hyaena,-1,-2,1
+wolf; arcticfox,0,0,0
+jackal,-1,-1,0
+polarbear,-1,0,0
+redfox,0,0,-1
+otherfeline,-2,0,1
+wolf; anthro,0,1,1
+otherdog; anthro,1,-2,
+riverotter,-1,-1,-1
+otherfeline; anthro,-2,-2,-2
+deer,1,1,1
+other,-1,0,0
+other,0,0,1
+tiger; anthro; feral; polymorphic,-2,-2,-1
+husky; anthro,0,0,0
+snowleopard; polymorphic,-1,-2,0
+othercanine,-2,-2,-2
+redfox,-1,0,0
+redfox,-2,-1,1
+wolf; anthro,-1,1,0
+dragon; anthro,0,0,-1
+redpanda,0,0,0
+arcticfox; anthro,1,0,1
+otherdog,-2,-1,1
+snowleopard,-2,-1,-1
+,2,2,2
+otherdog; anthro,-2,-2,-2
+redfox,2,0,0
+redfox; anthro,-1,0,0
+other,0,0,0
+husky,0,0,0
+wolf,0,1,-1
+raven,-1,0,-1
+wolf; anthro,-1,0,0
+wolf,0,0,1
+squirrel; anthro,-1,0,0
+lion,-1,0,0
+otherfox,0,0,0
+otherdog; other,-1,1,2
+raccoon,0,-1,-2
+griffin; taur; anthro,1,1,-2
+tiger; anthro; feral,,,-1
+redfox; dragon,-2,-1,1
+dragon; otherreptile; other,0,0,0
+panther,0,0,0
+dragon,-1,-1,1
+other,0,0,0
+kangaroo; anthro,0,1,-2
+redfox,-1,-1,0
+otherfox,0,0,-1
+other,1,0,0
+other,2,2,2
+mouse; feral,0,0,1
+kitsune; otherfox; anthro,1,0,-2
+wolf; redfox,-1,0,-2
+otherfox; anthro; feral,-1,1,0
+other,-2,0,0
+rabbit; anthro,-1,0,1
+redfox,1,0,-2
+wolf,2,2,2
+arcticfox,1,1,2
+coyote; anthro,1,-2,-1
+hyaena; anthro,-1,1,0
+other,0,2,1
+wolf,0,0,1
+husky,-2,-2,0
+husky,-1,-1,-1
+othermusteloid; raptor; griffin; feral,1,1,2
+other,0,0,-1
+cheetah,-2,-1,2
+arcticfox,1,2,0
+horse; taur; anthro; other,-1,-1,0
+wolf,-1,-1,-1
+otherfeline,0,0,0
+wolf,-2,-1,0
+jackal,0,0,1
+dragon; anthro; feral; polymorphic,-2,-1,-1
+wolf; otherfox,-2,-1,0
+rabbit; anthro,-1,-1,1
+redfox,-2,-2,-2
+hyaena; anthro,-1,0,1
+wolf,0,0,1
+lion; other,-1,1,-1
+rat,-1,-1,-2
+domesticcat,-2,-1,0
+dragon,0,-1,
+hyaena,1,0,-1
+wolf; anthro,-1,-1,-2
+wolf; collie; otherdog; anthro; feral; polymorphic,,,0
+tiger,0,0,-1
+,0,1,-1
+arcticfox; anthro,-1,0,0
+wolf,1,1,0
+rabbit,-2,1,2
+redfox,,0,-1
+snowleopard,0,-1,-1
+other,0,0,0
+raptor; anthro,-1,-2,-1
+othercanine; leopard; taur,-1,1,-2
+lion,-2,-2,1
+germanshepherd,0,1,1
+redfox; kitsune; dragon; anthro,-2,-2,1
+jackal; anthro,0,0,-1
+wolf; dragon,-2,0,-2
+,1,2,1
+wolf,-1,-2,-2
+otherfeline; anthro,0,-2,0
+otherfeline; anthro; feral,0,1,-1
+redfox,-1,-1,-1
+cheetah,0,0,-1
+redfox,-1,0,1
+anthro; other,-2,-1,0
+arcticfox; raven; anthro,-1,0,-2
+otherfox,1,-1,-1
+cheetah; anthro,0,1,0
+otherdog,0,0,0
+redfox,0,1,0
+otherbear,1,0,0
+leopard,-1,1,0
+redfox,0,0,0
+redfox; domesticcat,1,1,1
+otherfox; otherdog,-1,0,1
+redfox; anthro,-2,0,-1
+husky; anthro; feral,-1,-1,0
+lizard; raptor,0,-1,0
+bat,-1,-1,-1
+greyfox; arcticfox; kitsune; fennec; otherfox; anthro,0,0,0
+otherfox; feral; other,0,1,-2
+otherfeline; anthro,-1,-1,0
+anthro; other,-1,-1,-1
+rat; anthro,-2,-1,0
+wolf; anthro,0,1,1
+otherfox,-1,-1,1
+wolf,-2,,-2
+husky,1,1,1
+dragon,-2,-1,-2
+wolf,-1,1,1
+otherfeline,-1,1,1
+otherbear,0,0,1
+riverotter; feral,0,0,1
+arcticfox; taur; anthro; feral; polymorphic,0,0,-1
+otherdog; othercanine; anthro; feral,-1,-1,-1
+redfox,1,1,0
+polymorphic; other,1,0,0
+horse,0,0,0
+husky,0,1,-1
+dinosaur; otherbird; bat; anthro; polymorphic; other,-1,1,-2
+tiger; anthro,-1,1,1
+arcticfox; raccoon; anthro; feral,-1,-2,1
+germanshepherd; husky,-1,-1,-1
+leopard; cougar; anthro,1,-2,2
+wolf; redfox; kitsune; rabbit,-1,1,1
+coyote,1,1,1
+wolf,-2,-2,-1
+dragon; anthro,-1,-1,-1
+otherdog; raccoon; bat,0,-2,0
+deer; anthro,0,-1,0
+wolf,-1,-1,-2
+redfox; kitsune; domesticcat; anthro,-1,-2,-2
+otherbird; anthro,0,-1,-1
+deer,0,0,0
+kitsune; anthro,-1,-1,-2
+otherdog,-2,-2,0
+otherfeline; anthro,-2,-2,0
+other,-1,-1,2
+anthro; other,0,-2,-1
+tiger; anthro,-1,1,-2
+domesticcat; feral,-1,0,2
+wolf,1,1,0
+rabbit,-2,0,-1
+wolf; grizzlybear,1,0,-1
+husky; otherdog,0,-1,-1
+redpanda,-1,1,-2
+lizard; anthro; feral,1,0,-1
+horse; anthro,-1,0,-1
+other,0,0,1
+othercanine; otherbird,0,0,0
+other,2,0,-1
+domesticcat,0,0,0
+anthro; other,0,0,1
+husky; hyaena,1,2,-1
+wolf,1,-1,-1
+wolf; othercanine; other,,-1,1
+fennec; rabbit,-1,1,-1
+otherdog; anthro; feral,-1,0,-1
+redfox; kitsune; fennec; domesticcat; anthro,-2,0,0
+dragon; redpanda; anthro,-1,0,-1
+fennec; jackal,1,0,0
+raptor,0,0,0
+anthro; other,0,0,-1
+wolf; horse,0,1,0
+dragon; feral,-2,0,0
+wolf; anthro,,-1,2
+grizzlybear,0,0,0
+wolf; snowleopard; otherbird; anthro,0,0,-2
+otherungulate; anthro; feral; polymorphic; other,-1,-1,-1
+wolf; greyfox; germanshepherd; husky,-2,-2,1
+tiger,-2,-1,0
+,0,0,0
+collie; skunk; redpanda; polarbear; raptor; otherbird; anthro,1,0,-1
+wolf,-2,-1,-2
+redfox; riverotter; redpanda,-1,0,-2
+wolf; greyfox; othercanine; anthro,,,-2
+hyaena,0,1,1
+wolf,0,2,-1
+otherfox,-2,1,1
+husky,-1,-1,-1
+fennec,-1,-2,1
+raven; anthro,0,0,2
+deer,,,-2
+raven; anthro,,,0
+rabbit,-1,0,1
+wolf; redfox; anthro,-1,0,-1
+redfox,-2,-1,-1
+wolf,-1,1,1
+redfox; anthro,0,1,0
+kitsune,-2,-2,-2
+otherfeline,2,1,0
+otherfox,1,1,1
+fennec,2,2,2
+husky,-2,0,1
+dragon,-1,1,0
+wolf,1,0,-1
+griffin,-1,0,1
+wolf,-2,-1,0
+bat,2,2,1
+dragon,0,0,0
+redpanda; anthro,1,0,0
+wolf; redfox; greyfox; arcticfox; kitsune; fennec; otherfox; tiger; snowleopard; domesticcat; dragon; lizard; dinosaur; raccoon; skunk; seaotter; redpanda; squirrel; raven; raptor; rabbit; kangaroo; koala; hyaena; bat; anthro,-2,-2,-2
+weasel; othermustelid,0,-1,1
+wolf; redfox; kitsune; otherdog; othercanine; domesticcat; raccoon; skunk; anthro,,1,-1
+wolf; anthro,-2,-1,0
+othercanine; anthro; other,0,-1,-1
+fennec; rabbit,0,-1,1
+coyote; anthro,-1,0,1
+otherfox,-2,1,0
+otherbird,0,0,0
+arcticfox; raccoon; rabbit,0,-1,1
+other,0,0,0
+kitsune; tiger; dragon; skunk; polymorphic,-1,0,0
+rabbit; anthro,-2,-1,-1
+wolf; redfox; kitsune; otherdog; domesticcat; raccoon; skunk; anthro,0,1,-1
+coyote,1,0,0
+dragon,-2,-2,-2
+husky; anthro,-1,-2,2
+dragon; anthro; feral,-1,-1,-1
+redfox,0,0,0
+wolf; arcticfox; coyote; husky; tiger; lion; snowleopard; dragon; lizard; riverotter; seaotter; mouse; rat; monkey,-1,-1,0
+badger,1,0,1
+rat; anthro,-1,-1,0
+tiger,-1,-1,0
+domesticcat; anthro,-1,0,0
+redpanda; anthro; feral,-1,0,1
+wolf,-1,-1,0
+wolf,-1,1,0
+otherfeline; bat; anthro,1,-1,1
+otherdog,-2,1,0
+domesticcat,0,0,2
+otherfeline; other,-1,0,-2
+othermustelid,0,1,-1
+redfox; other,0,0,-1
+domesticcat; anthro,0,0,0
+otherreptile; anthro,-2,-1,0
+other,-1,0,0
+otherfox,0,1,-1
+dragon; feral,-2,-2,-1
+kitsune; anthro,-2,0,-1
+redfox,0,1,2
+husky; dragon; anthro; feral,0,1,2
+snowleopard,-1,0,-2
+otherbird; anthro; other,-1,0,0
+otherdog; other,-2,0,-1
+cheetah,1,0,0
+lion; otherungulate,0,1,-2
+otherdog,0,0,0
+otherfox,-1,0,1
+redfox; coyote; germanshepherd,-1,0,1
+rabbit; anthro,1,0,-1
+otherreptile,0,0,-1
+otherfeline,0,-2,-2
+redfox,-1,-1,0
+collie,-1,0,1
+otherfox,-1,-2,0
+wolf; germanshepherd; otherdog,-2,1,0
+wolf,-1,-1,-1
+dinosaur,1,1,0
+hyaena; anthro,-1,-1,1
+coyote,1,0,1
+redfox; anthro; feral,-1,-1,-2
+otherungulate,-1,0,1
+seaotter,-1,0,0
+anthro; other,-2,-1,-1
+cheetah; anthro,0,1,-2
+fennec; otherreptile,0,1,1
+raccoon,,,-1
+wolf; taur; anthro; feral,-1,-1,0
+feral,0,0,0
+othermustelid,-2,-1,0
+wolf; dragon,-1,-1,0
+otherdog,0,0,-1
+tiger; anthro,-1,0,1
+polymorphic,0,0,-1
+snowleopard; anthro,1,0,0
+wolf; anthro,0,0,0
+arcticfox; taur; anthro,-1,-2,0
+leopard; anthro,-1,0,-1
+wolf; anthro,-1,-1,-1
+husky,2,0,1
+redfox; germanshepherd,0,0,0
+fennec; anthro,-1,-2,0
+horse; anthro; feral,-2,0,-1
+arcticfox; husky; anthro,-2,-1,1
+arcticfox,-2,-2,1
+wolf; otherfeline; anthro,0,0,0
+wolf; husky,1,0,-2
+fennec,-1,1,0
+wolf; anthro; polymorphic,-1,-2,-1
+wolf; otherdog; anthro; other,-1,,-1
+wolf,-2,-2,1
+otherfox; anthro,-2,-1,0
+wolf; anthro,0,0,-1
+otherfox,-1,-2,0
+deer; anthro,-2,-1,-2
+redfox; anthro,-1,-1,-2
+otherungulate; other,0,-1,0
+wolf,1,0,0
+wolf; anthro,0,0,0
+wolf,-1,0,0
+mouse; anthro,-1,-1,-1
+wolf; otherfeline; anthro,-2,-2,0
+wolf,-1,1,0
+tiger; polarbear; anthro,-1,0,1
+wolf; redfox; arcticfox,-1,0,0
+other,-1,-1,-1
+raccoon,-1,-1,-1
+arcticfox,-1,0,1
+arcticfox,0,-1,-2
+wolf; husky; horse; deer; other; anthro; feral,-2,0,-2
+bat,,,-1
+otherfox,-1,0,0
+otherfox; horse,-1,0,1
+greyfox,1,1,0
+wolf,1,0,0
+dragon; anthro,-1,-1,0
+otherfeline; other,-2,-2,-2
+domesticcat,-2,-1,1
+dragon; lizard,0,0,2
+redfox,0,1,-1
+coyote; jackal; otherdog,-1,0,1
+rabbit,-1,-1,-1
+dragon; anthro; feral,2,1,1
+wolf; other,-2,-1,0
+domesticcat,-2,-1,1
+wolf; anthro,-1,0,-2
+raptor; anthro,-1,0,-2
+panther,2,0,1
+lion; leopard; domesticcat; otherfeline,-1,-1,-1
+arcticfox,0,-1,-1
+wolf,0,0,-1
+anthro; other,0,-1,-2
+cheetah,-2,-1,-1
+other,0,0,0
+otherungulate,-1,-2,0
+grizzlybear,0,0,0
+otherfox,-1,0,0
+dragon,-1,0,0
+riverotter; seaotter,0,1,-2
+riverotter; anthro,0,1,-1
+wolf; othercanine; anthro; other,0,0,1
+wolf; tiger,0,-1,1
+otherreptile,1,-1,0
+other,0,-2,1
+otherdog; otherbear; anthro; feral,1,0,-2
+tiger,-1,0,0
+otherfeline,0,0,0
+riverotter,0,0,2
+wolf; riverotter; anthro,-1,0,-2
+rabbit,0,-1,-2
+wolf,-2,0,-1
+wolf; dragon,0,0,-1
+anthro; other,-2,-2,2
+wolf,0,0,1
+coyote,-1,-1,1
+husky,0,0,1
+domesticcat,-2,-2,1
+redfox; rabbit; anthro,0,-1,-1
+other,0,0,-1
+wolf; fennec,-1,2,0
+otherdog,0,-1,1
+wolf; otherdog; deer; anthro,1,0,1
+arcticfox,-2,0,1
+otherfox; anthro; other,-1,-1,-2
+wolf,0,-1,0
+feral; other,-2,-1,-2
+redfox,-2,-2,-2
+tiger,-1,0,-1
+domesticcat,1,1,1
+collie,0,0,0
+dragon; lizard; taur; anthro; feral; polymorphic,0,-1,0
+anthro; other,0,0,-2
+tiger,-2,-2,-2
+redpanda; deer; anthro; feral,1,-1,0
+hyaena,-1,1,2
+otherdog; other,-2,-1,0
+domesticcat,-1,0,0
+jackal; anthro,,-2,-1
+wolf; fennec; dragon,1,-1,0
+otherdog; anthro,0,-1,0
+dragon,-1,0,-2
+otherfox; anthro,-2,-1,1
+riverotter; seaotter; anthro; feral; polymorphic,0,0,0
+other,,-1,1
+other,-1,0,2
+arcticfox; anthro,0,1,0
+arcticfox; anthro,0,-1,1
+kitsune,2,-1,0
+othermustelid; polymorphic,0,0,-1
+snowleopard; anthro,-1,0,-2
+domesticcat,0,0,-1
+redfox,-2,2,0
+wolf; anthro,0,1,0
+wolf; husky,-2,-2,-1
+tiger; lion; domesticcat,0,-2,-1
+redfox; dragon; anthro; feral; polymorphic; other,0,0,0
+domesticcat,-1,0,0
+redfox,-1,1,-1
+greyfox; anthro,-1,-1,-1
+other,-2,-2,-2
+dragon; anthro,1,0,-1
+wolf; anthro,0,1,0
+lizard; anthro,-1,-1,1
+other,-1,-1,0
+wolf,1,1,0
+wolf; dragon; anthro; feral; polymorphic,-1,,1
+wolf; anthro; other,-1,0,-2
+fennec; anthro,0,0,0
+anthro; other,1,2,-1
+wolf; redfox; greyfox; anthro,-1,-1,-1
+wolf; anthro,-1,0,0
+dragon; anthro,1,0,-1
+greyfox; skunk; badger,-2,-1,-2
+wolf; other,-1,1,2
+hyaena,0,-2,2
+coyote; anthro,2,0,1
+hyaena,-1,0,0
+wolf; husky,1,-1,1
+redfox,2,0,-1
+fennec,-2,1,0
+other,0,0,-1
+otherfox,-2,-2,2
+husky; anthro,-2,-2,0
+kangaroo,-1,0,-1
+wolf,-2,0,1
+husky; dragon; anthro,-2,0,0
+other,1,0,-1
+other,-1,1,1
+collie,-1,0,0
+grizzlybear,1,0,1
+wolf; anthro,1,0,-1
+dragon; feral,0,0,0
+wolf; husky,0,0,-1
+wolf; anthro,-1,-1,-1
+othercanine; otherfeline; otherreptile; otherungulate; griffin; other,0,0,1
+kitsune; anthro,-1,1,-2
+bat,0,0,-1
+wolf; husky; feral,1,-2,0
+husky,2,2,1
+rat,-1,-1,-2
+arcticfox; anthro,2,0,-1
+coyote,1,-1,0
+redpanda; anthro,-1,-1,1
+fennec,-2,-2,-2
+wolf,0,0,-1
+cheetah,-2,-2,1
+other,0,0,0
+coyote,0,-1,1
+dragon,0,0,0
+otherdog,1,0,-1
+redfox; anthro; feral,-1,-1,-1
+dragon,-2,0,-1
+raccoon,-1,-1,-1
+tiger; polarbear,0,0,0
+dragon,-1,1,-2
+other,1,0,0
+otherdog,-2,-2,-2
+cougar,-1,-2,1
+wolf; feral,-1,0,-1
+redfox,0,0,-1
+redfox,-1,0,1
+otherreptile; anthro,-1,0,-1
+other,0,-1,-1
+deer,-2,-2,0
+othercanine; anthro,2,1,-1
+weasel,-1,0,-2
+othermustelid; anthro,-1,-2,0
+arcticfox; raccoon,-2,-2,0
+fennec; coyote; weasel; othermustelid; rabbit; bat,1,1,0
+germanshepherd; rabbit,-1,1,0
+arcticfox; anthro; feral,0,0,0
+wolf,1,0,0
+skunk,-1,0,1
+otherungulate; anthro,0,0,0
+deer; anthro,0,-1,-1
+otherdog; feral,1,0,1
+anthro; other,-1,2,1
+kitsune,-1,-1,-1
+otherdog,1,0,-1
+dragon,-2,1,2
+anthro; feral; other,-2,-1,1
+wolf; kitsune; otherfox; otherdog; domesticcat; raccoon; skunk; anthro,,1,-1
+otherfeline,-1,0,0
+redfox; greyfox; anthro,0,-1,-1
+dragon; anthro,-1,0,1
+wolf; snowleopard; anthro,-1,0,1
+wolf; greyfox; arcticfox; kitsune; coyote; husky; lizard,-2,-1,2
+otherfeline; dragon; anthro,0,0,-1
+deer,-1,1,-1
+tiger; cougar,0,0,0
+fennec,-1,0,0
+wolf,-1,-1,1
+anthro; polymorphic,-1,-1,-1
+wolf,0,-1,0
+redfox,0,0,0
+raven,,,-1
+otherungulate,-1,-1,-1
+other,-2,1,1
+other,0,-2,-1
+wolf; othercanine; anthro,0,1,2
+arcticfox,0,-1,0
+otherfeline,0,0,-2
+wolf; other,0,0,0
+snowleopard; otherfeline; anthro; feral,-2,-1,1
+redfox,-2,-1,-1
+other,0,0,0
+dragon; lizard; raccoon; rabbit; taur; anthro,-2,1,0
+lion; anthro,0,-1,2
+dragon,,0,0
+redfox,-1,0,-2
+othermarsupial; other,0,-2,1
+wolf,-1,-1,1
+wolf,1,0,-1
+raccoon; anthro,0,-1,0
+lizard,0,1,0
+wolf,2,-1,1
+anthro; other,-2,-2,-1
+wolf; lion,0,0,0
+redfox,0,-1,1
+dragon; feral,2,2,0
+brownbear; grizzlybear; otherbear,-1,-1,-1
+wolf; dragon; anthro,0,1,-1
+otherfox,0,0,0
+other,0,0,-2
+tiger,-1,-2,-1
+arcticfox,-2,-2,-2
+redfox,1,1,0
+wolf,,,-1
+wolf,-2,0,0
+redfox,-1,-1,1
+domesticcat; other,1,0,0
+wolf,-2,-1,0
+redfox; anthro,-2,-1,0
+domesticcat,-1,1,0
+wolf,1,-1,0
+greyfox,1,0,-1
+anthro,-1,0,1
+otherdog,0,0,-2
+otherfeline; dragon,-2,-2,-1
+wolf,-2,-2,2
+other,-2,-2,-2
+anthro,-2,-2,0
+anthro; other,2,1,0
+husky; collie,-2,-1,-2
+wolf; redfox,0,0,-1
+rat; bat; anthro,-1,0,0
+badger,2,2,2
+redfox; anthro; feral; polymorphic,0,-1,-1
+wolf; anthro,0,1,0
+dragon; anthro,0,0,0
+other,0,1,1
+arcticfox,0,0,0
+grizzlybear; pandabear,-2,-2,-2
+otherfox,-2,0,-1
+snowleopard,-2,-1,0
+redfox; anthro; feral; polymorphic,1,0,0
+wolf,2,1,1
+panther,2,1,0
+tiger,2,2,2
+other,0,0,-1
+otherdog; dragon; feral,0,0,0
+othercanine; anthro,1,0,-1
+squirrel,0,0,0
+coyote; other,-1,0,1
+kitsune; otherfox; rat; squirrel; other; rabbit; other,-1,1,0
+husky; anthro,-2,-1,1
+fennec; anthro,-2,-1,-1
+domesticcat,0,-1,0
+other,0,0,0
+wolf,0,0,0
+wolf; redfox; husky; dragon; lizard,0,1,-2
+wolf; deer; hyaena; feral,-2,-1,0
+raccoon,0,1,-2
+dragon; bat,0,-1,2
+wolf,-1,1,1
+anthro,2,-1,-1
+wolf,1,0,0
+domesticcat; anthro; feral,-1,-1,-2
+greyfox; anthro,-2,-2,-2
+redfox; otherfox; anthro,0,0,-1
+rabbit,0,0,0
+tiger,2,2,2
+riverotter; feral,-1,0,-1
+wolf,-2,-2,0
+otherfeline,-2,1,-2
+anthro; other,0,-1,0
+wolf; anthro,0,0,0
+arcticfox,0,-1,1
+hyaena,-1,1,0
+kitsune; dragon; polymorphic,-1,-1,0
+snowleopard; otherfeline,0,-1,-1
+dragon,1,-2,2
+wolf; greyfox; husky; seaotter; anthro; feral; polymorphic,1,-1,0
+dragon; anthro,1,1,0
+deer,-1,-1,0
+redfox; anthro,-1,-1,0
+tiger; otherfeline,2,1,-1
+redfox,-2,-2,-2
+rabbit,0,0,1
+otherdog,1,1,1
+redfox,1,0,-1
+domesticcat,-2,0,0
+fennec,0,0,-2
+dragon; dinosaur; otherreptile; anthro; feral; polymorphic; other,0,0,0
+domesticcat,-2,-1,0
+,0,-1,1
+wolf; dragon,-2,-1,0
+wolf; greyfox; husky; raccoon; seaotter; anthro; polymorphic,1,-1,0
+domesticcat,-1,-1,0
+othermarsupial; other,0,0,0
+monkey; anthro; other,1,-1,-2
+horse,1,0,-1
+redfox,0,0,-1
+riverotter,-2,0,0
+other,2,0,0
+deer,-1,-2,-2
+wolf,1,1,2
+tiger,-2,-2,-1
+skunk,1,1,0
+otherreptile,1,-2,-2
+other,2,1,0
+wolf,-1,1,-2
+anthro; other,-2,-2,0
+kitsune,0,0,0
+redfox,-1,0,0
+redfox,1,-1,2
+fennec; otherfeline; other,-2,-2,-1
+wolf; fennec; anthro,0,-2,-2
+otherdog,-2,1,-1
+wolf; kitsune; otherfox; anthro; polymorphic,-2,-1,-2
+redfox,1,0,0
+otherdog,0,0,0
+otherdog; raccoon; bat,0,0,0
+anthro,-1,-2,0
+fennec; raccoon,0,-1,-1
+anthro,1,0,0
+wolf,-1,0,2
+anthro; other,-2,-2,-2
+hyaena; anthro,0,1,-1
+redfox,1,-1,2
+othermustelid,2,2,1
+wolf,0,0,0
+otherfox; anthro; feral,-2,-2,-1
+redfox; domesticcat; otherfeline,-2,-1,0
+dragon,-1,-1,-1
+fennec; anthro,-2,-2,0
+othermustelid,-1,-1,0
+dragon; skunk,1,-1,0
+husky; snowleopard,0,1,-1
+redfox,1,2,2
+wolf,-2,-1,1
+wolf; anthro,-1,-1,-2
+wolf,0,0,0
+otherfox; husky,-2,-1,0
+kitsune; snowleopard; raven; otherbird; anthro,-1,-1,0
+wolf; otherfox; other,-2,-1,1
+horse,0,0,-1
+lion,-1,1,1
+othermarsupial,-1,2,2
+greyfox,0,2,1
+tiger,0,0,1
+horse; feral,0,-1,-2
+wolf; bat; anthro,-1,0,0
+othermarsupial,0,0,-1
+raccoon,-2,-1,-2
+arcticfox,-1,,
+wolf,0,-1,-1
+bat,1,0,2
+wolf; arcticfox; husky; panther; horse; pandabear,1,1,1
+husky,-1,0,1
+wolf; anthro,0,1,1
+bat,-1,-1,-1
+anthro; other,1,0,0
+redfox; domesticcat; anthro,0,0,1
+anthro; other,0,0,-1
+snowleopard,0,0,0
+wolf,0,0,0
+wolf; redfox; arcticfox; germanshepherd; husky; tiger; lion; snowleopard; panther; cheetah; cougar; domesticcat; dragon; lizard; dinosaur; skunk; brownbear; polarbear; raven; rabbit; griffin; anthro,-1,0,1
+othercanine,0,0,-1
+wolf,0,0,0
+domesticcat,-2,-1,0
+wolf; anthro,0,-1,-1
+wolf; anthro; feral,-1,-1,-1
+wolf,-1,0,1
+otherdog,1,-1,2
+otherfox; dragon,-1,1,2
+lion,-1,0,1
+rabbit; anthro,0,-1,-2
+otherdog; anthro,-1,0,-2
+otherfeline,1,0,1
+otherfox,-2,-1,1
+fennec,-2,0,1
+jackal,0,0,0
+germanshepherd,1,0,0
+germanshepherd,-1,-1,1
+wolf,0,0,-1
+otherfox; anthro,-2,-2,-2
+anthro; other,-1,1,2
+grizzlybear,1,-1,0
+raccoon; anthro,0,0,0
+domesticcat; anthro,-2,-2,-2
+domesticcat,-1,0,-1
+otherfeline; otherungulate,1,1,0
+wolf; husky,0,-1,-1
+snowleopard,-2,-2,-2
+redpanda,0,-1,0
+dragon; anthro; feral,-1,1,0
+greyfox,1,1,-1
+otherbear,-1,1,1
+otherfeline; other,0,0,-1
+wolf; otherdog,0,-1,1
+coyote; hyaena,-2,-1,1
+otherfeline; other,-2,1,2
+dragon; anthro; polymorphic,0,0,-1
+othercanine,2,0,1
+other,-2,-1,1
+snowleopard,-1,-1,-2
+domesticcat,0,1,-2
+wolf,-1,1,1
+husky,-1,0,1
+raven; otherbird,-1,-1,0
+bat,1,1,0
+othercanine; other,0,1,1
+othercanine,-1,0,0
+other,0,0,0
+othercanine; other,1,0,-1
+wolf; husky,-2,0,-1
+other,1,0,1
+deer,0,-1,-1
+arcticfox,-2,0,-1
+horse; raptor; griffin; anthro,0,0,0
+other,1,1,0
+otherdog,-1,0,0
+deer,-1,0,-1
+otherungulate,0,0,1
+fennec,-1,0,0
+otherfox; squirrel,1,1,0
+wolf,2,1,1
+otherfeline; dragon,0,0,1
+otherungulate,-1,-1,0
+raccoon,0,-1,-1
+wolf; dragon; horse; rabbit; anthro,0,0,-1
+othermarsupial,-1,0,0
+redfox; otherfox,-1,0,-1
+othercanine; other,-2,0,1
+riverotter,1,0,1
+wolf; arcticfox; taur; anthro; feral; polymorphic; other,0,0,0
+jackal,0,0,0
+lizard; anthro; polymorphic,-1,-2,-2
+othermustelid; polymorphic; other,-1,0,-1
+dragon; taur; anthro; feral,2,0,-1
+domesticcat; taur; other,0,-1,0
+panther,0,0,1
+domesticcat; anthro,2,1,0
+husky; anthro,-2,-1,1
+riverotter,-1,-1,0
+greyfox,1,0,-1
+kitsune; husky,0,0,0
+husky,-2,-2,-2
+othercanine; polymorphic,-1,0,0
+deer,1,0,0
+redfox,-2,-2,-1
+wolf,1,1,-1
+bat,-2,-1,-1
+othercanine; anthro; feral; other,0,0,0
+raccoon; anthro,1,-1,0
+redfox; deer; anthro; polymorphic,-2,-2,0
+otherdog; anthro,-1,-2,-1
+wolf; otherdog; anthro,1,-1,1
+wolf,-1,0,-2
+greyfox,0,0,1
+tiger,1,1,0
+redfox,0,0,1
+otherfox,-2,0,1
+wolf; feral; other,0,-1,1
+otherfox,1,0,-1
+wolf,0,0,0
+snowleopard,-1,0,0
+dragon,0,0,-1
+fennec,0,0,-1
+husky; otherdog; anthro,0,-1,-2
+wolf,0,-1,1
+rabbit; anthro,1,-1,-2
+otherfeline,0,0,0

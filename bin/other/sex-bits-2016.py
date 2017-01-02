@@ -1,4 +1,4 @@
-from etc.furrypoll2015 import models
+from etc.furrypoll2016 import models
 
 results = {}
 responses = models.Response.objects
@@ -9,7 +9,6 @@ while True:
         response = responses.next()
     except:
         break
-    print response.id
     touchpoints = map(lambda tp: tp.touchpoint_type, response.metadata.touchpoints)
     if -3 in touchpoints:
         n += 1
@@ -22,9 +21,9 @@ while True:
                     results[interest.option][value] = 0
                 results[interest.option][value] += 1
 
-print "option,interested,consume media,create media,participate online,participate in person"
+print "year,option,interested,consume media,create media,participate online,participate in person"
 for interest, levels in results.items():
-    print "{},{},{},{},{},{}".format(
+    print "2016,{},{},{},{},{},{}".format(
         interest,
         levels['interested'],
         levels['consume_media'],
