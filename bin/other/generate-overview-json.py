@@ -11,6 +11,7 @@ results = {
         '2012': 0,
         '2013': 0,
         '2015': 0,
+        '2016': 0
     },
     'demographics': {
         'age': {
@@ -20,6 +21,7 @@ results = {
             '2012': {},
             '2013': {},
             '2015': {},
+            '2016': {}
         },
         'biological_sex': {
             '2009': {},
@@ -28,6 +30,7 @@ results = {
             '2012': {},
             '2013': {},
             '2015': {},
+            '2016': {}
         },
         'gender_identity': {
             '2009': {},
@@ -36,6 +39,7 @@ results = {
             '2012': {},
             '2013': {},
             '2015': {},
+            '2016': {}
         },
         'sexual_orientation': {
             '2009': {},
@@ -44,6 +48,7 @@ results = {
             '2012': {},
             '2013': {},
             '2015': {},
+            '2016': {}
         },
         'race': {
             '2009': {},
@@ -52,6 +57,7 @@ results = {
             '2012': {},
             '2013': {},
             '2015': {},
+            '2016': {}
         },
         'relationship_status': {
             '2009': {},
@@ -60,6 +66,7 @@ results = {
             '2012': {},
             '2013': {},
             '2015': {},
+            '2016': {}
         },
         'polyamory': {
             'sexuality': {
@@ -78,6 +85,7 @@ results = {
                 '2012': {},
                 '2013': {},
                 '2015': {},
+                '2016': {}
             },
             'economic': {
                 '2010': {},
@@ -85,12 +93,14 @@ results = {
                 '2012': {},
                 '2013': {},
                 '2015': {},
+                '2016': {}
             },
         }
     },
     'furry_metadata': {
         'furry_status': {
             '2015': {},
+            '2016': {}
         },
         'partner_is_furry': {
             '2009': {},
@@ -99,6 +109,7 @@ results = {
             '2012': {},
             '2013': {},
             '2015': {},
+            '2016': {}
         },
     },
     'perception_of_fandom': {
@@ -110,6 +121,7 @@ results = {
                 '2012': {},
                 '2013': {},
                 '2015': {},
+                '2016': {}
             },
             'others': {
                 '2009': {},
@@ -118,6 +130,7 @@ results = {
                 '2012': {},
                 '2013': {},
                 '2015': {},
+                '2016': {}
             },
             'public': {
                 '2009': {},
@@ -126,6 +139,7 @@ results = {
                 '2012': {},
                 '2013': {},
                 '2015': {},
+                '2016': {}
             },
         }
     },
@@ -215,7 +229,7 @@ with open(sys.argv[1], 'rb') as f:
             else:
                 results['demographics']['political_views']['economic'][year][politics_economic] = 1
 
-        if year == '2015':
+        if year in ['2015', '2016']:
             furry_status = row['furry_status']
             if furry_status:
                 if furry_status in results['furry_metadata']['furry_status'][year]:
