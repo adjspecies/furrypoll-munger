@@ -1,7 +1,7 @@
 import csv
 import sys
 
-from etc.furrypoll2015 import models
+from etc.furrypoll2016 import models
 
 fields = [
     'male',
@@ -48,19 +48,19 @@ while True:
     except:
         break
 
-with open(sys.argv[1] + '/gid.csv', 'wb') as f:
+with open(sys.argv[1] + '/gid2016.csv', 'wb') as f:
     csvfile = csv.DictWriter(f, fieldnames=fields)
     csvfile.writeheader()
     for row in identity:
         csvfile.writerow(row)
 
-with open(sys.argv[1] + '/gex.csv', 'wb') as f:
+with open(sys.argv[1] + '/gex2016.csv', 'wb') as f:
     csvfile = csv.DictWriter(f, fieldnames=fields)
     csvfile.writeheader()
     for row in expression:
         csvfile.writerow(row)
 
-with open(sys.argv[1] + '/gif.csv', 'wb') as f:
+with open(sys.argv[1] + '/gif2016.csv', 'wb') as f:
     csvfile = csv.DictWriter(f, fieldnames=fields)
     csvfile.writeheader()
     for row in in_furry:
