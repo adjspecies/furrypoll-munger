@@ -1,0 +1,7 @@
+cis: 4265 (masculine 3605, feminine 614)
+noncis: 483 (masculine: 158, feminine: 147)
+complicated: 365 (masculine: 111, feminine: 49)
+================================================================================
+cis: 78% (masculine 84%, feminine 14%)
+noncis: 8% (masculine: 32%, feminine: 30%)
+complicated: 6% (masculine: 30%, feminine: 13%)
