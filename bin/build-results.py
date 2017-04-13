@@ -22,7 +22,7 @@ def main(out_dir):
 
     # Write the results out to the CSV file
     with open(out_dir + '/results.csv', 'w') as csvfile:
-        writer = csv.DictWriter(csvfile, fieldnames=FIELDNAMES)
+        writer = csv.DictWriter(csvfile, fieldnames=FIELDNAMES.keys())
         writer.writeheader()
     logger.info('Beginning dump')
 

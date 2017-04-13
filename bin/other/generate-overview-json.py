@@ -30,7 +30,6 @@ results = {
             '2012': {},
             '2013': {},
             '2015': {},
-            '2016': {}
         },
         'gender_identity': {
             '2009': {},
@@ -40,6 +39,9 @@ results = {
             '2013': {},
             '2015': {},
             '2016': {}
+        },
+        'gender_alignment': {
+            '2016': {},
         },
         'sexual_orientation': {
             '2009': {},
@@ -165,7 +167,7 @@ with open(sys.argv[1], 'rb') as f:
                     results['demographics']['age'][year][age] = 1
 
         biosex = row['biosex']
-        if biosex:
+        if biosex and year in results['demographics']['biological_sex']:
             if biosex in results['demographics']['biological_sex'][year]:
                 results['demographics']['biological_sex'][year][biosex] += 1
             else:
@@ -177,6 +179,13 @@ with open(sys.argv[1], 'rb') as f:
                 results['demographics']['gender_identity'][year][gender] += 1
             else:
                 results['demographics']['gender_identity'][year][gender] = 1
+
+        gender = row['gender_alignment']
+        if gender and year in results['demographics']['gender_alignment']:
+            if gender in results['demographics']['gender_alignment'][year]:
+                results['demographics']['gender_alignment'][year][gender] += 1
+            else:
+                results['demographics']['gender_alignment'][year][gender] = 1
 
         orientation = row['orientation']
         if orientation:
