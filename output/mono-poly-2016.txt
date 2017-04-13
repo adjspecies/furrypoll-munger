@@ -1,0 +1,9 @@
+
+n = 5209
+Romantic:
+    poly: 353 (6.78%)
+    mono or no answer: 4856 (93.22%)
+Sexual:
+    poly: 496 (9.52%)
+    mono or no answer: 4713 (90.48%)
+
