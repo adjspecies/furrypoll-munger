@@ -10,7 +10,7 @@ apt-get update
 apt-get install -y \
     git ipython python-virtualenv libpython-dev python-dev \
     mysql-server postgresql libmysqlclient-dev libpq-dev \
-    mongodb language-pack-en
+    mongodb language-pack-en gcc
 
 # Create a python virtualenv for data exploration
 if [ ! -d /home/vagrant/.venv ]; then
@@ -20,9 +20,9 @@ if [ ! -d /home/vagrant/.venv ]; then
 fi
 
 # Attempt to fetch data from private repo
-if [ ! -d /vagrant/etc/survey-data ]; then
-    git clone --depth 1 https://bitbucket.org/adjspecies/furrysurvey-data.git /vagrant/etc/survey-data
-fi
+#if [ ! -d /vagrant/etc/survey-data ]; then
+#    git clone --depth 1 https://bitbucket.org/adjspecies/furrysurvey-data.git /vagrant/etc/survey-data
+#fi
 
 # Attempt to fetch survey from remote repo
 if [ ! -d /vagrant/etc/furrypoll2015 ]; then
