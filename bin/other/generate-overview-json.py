@@ -247,12 +247,13 @@ with open(sys.argv[1], 'rb') as f:
                     results['furry_metadata']['furry_status'][year][furry_status] = 1
 
         partner = row['partner_is_furry']
-        if partner == '':
-            partner = 'False'
-        if partner in results['furry_metadata']['partner_is_furry'][year]:
-            results['furry_metadata']['partner_is_furry'][year][partner] += 1
-        else:
-            results['furry_metadata']['partner_is_furry'][year][partner] = 1
+        if relationship_status not in ['Single', '']:
+            if partner == '':
+                partner = 'False'
+            if partner in results['furry_metadata']['partner_is_furry'][year]:
+                results['furry_metadata']['partner_is_furry'][year][partner] += 1
+            else:
+                results['furry_metadata']['partner_is_furry'][year][partner] = 1
 
         ios = row['seximportance_personal']
         if ios:
